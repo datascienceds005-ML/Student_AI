@@ -1,0 +1,201 @@
+invoice_date,order_id,title,segment,total_amount,order_qty,city,fulfillment_status
+09-Apr-2023,AJO800000,Ethnic Kurti,Women,"₹2,707.58",2,Ahmedabad,Delivered
+16-Aug-2023,AJO800001,Graphic Tee,Women,"1,970",1,Mumbai,Cancelled
+05-Jan-2023,AJO800002,Graphic Tee,Women,"₹1,773.43",1,Pune,Processing
+24-Apr-2023,AJO800003,Graphic Tee,Kids,"₹2,055.05",1,Surat,Processing
+11-Jan-2023,AJO800004,Slim Fit Trousers,Kids,"1,404",2,Indore,Cancelled
+24-May-2023,AJO800005,Slim Fit Trousers,Men,368,2,Surat,Delivered
+15-Dec-2023,AJO800006,Graphic Tee,Women,"1,813",2,Mumbai,Cancelled
+30-Dec-2023,AJO800007,Leather Jacket,Kids,Rs. 971,2,Indore,Delivered
+03-Jul-2023,AJO800008,Ethnic Kurti,Kids,₹728.84,2,Surat,Cancelled
+09-Apr-2023,AJO800009,Leather Jacket,Men,"(1,945)",2,Surat,Cancelled
+16-Feb-2023,AJO800010,Leather Jacket,Women,"1,305",2,Bangalore,Cancelled
+11-Nov-2023,AJO800011,Graphic Tee,Men,"2,219",1,Chennai,Cancelled
+17-Nov-2023,AJO800012,Graphic Tee,Men,(948),1,Lucknow,Delivered
+05-Jun-2023,AJO800013,Ethnic Kurti,Kids,"1,170",1,Ahmedabad,Delivered
+24-Apr-2023,AJO800014,Leather Jacket,Kids,"₹2,305.21",1,Surat,Processing
+30-Apr-2023,AJO800015,Leather Jacket,Men,"Rs. 1,696",2,Bangalore,Delivered
+10-Sep-2023,AJO800016,Leather Jacket,Women,466,1,Chennai,Processing
+05-Jul-2023,AJO800017,Leather Jacket,Men,"1,680",1,Hyderabad,Cancelled
+19-Jan-2023,AJO800018,Slim Fit Trousers,Kids,"₹2,536.87",1,Lucknow,Cancelled
+24-May-2023,AJO800019,Graphic Tee,Kids,"₹1,165.00",1,Lucknow,Processing
+10-Sep-2023,AJO800020,Slim Fit Trousers,Kids,"Rs. 1,919",2,Surat,Delivered
+27-Dec-2023,AJO800021,Graphic Tee,Women,905,2,Bangalore,Processing
+28-Dec-2023,AJO800022,Slim Fit Trousers,Kids,"1,404",2,Mumbai,Delivered
+07-Nov-2023,AJO800023,Ethnic Kurti,Women,"Rs. 2,263",1,Delhi,Processing
+18-Apr-2023,AJO800024,Leather Jacket,Women,"Rs. 1,653",2,Delhi,Cancelled
+04-Jan-2023,AJO800025,Graphic Tee,Men,"₹2,402.49",1,Surat,Cancelled
+11-Apr-2023,AJO800026,Graphic Tee,Women,"₹1,797.71",2,Indore,Delivered
+23-Nov-2023,AJO800027,Graphic Tee,Men,"Rs. 3,053",2,Kolkata,Delivered
+22-Jul-2023,AJO800028,Slim Fit Trousers,Women,405,2,Kolkata,Delivered
+26-Feb-2023,AJO800029,Leather Jacket,Kids,"₹1,347.96",2,Indore,Delivered
+23-May-2023,AJO800030,Graphic Tee,Women,741,2,Lucknow,Cancelled
+19-Oct-2023,AJO800031,Ethnic Kurti,Men,₹788.63,1,Delhi,Cancelled
+14-Sep-2023,AJO800032,Ethnic Kurti,Women,795,2,Jaipur,Delivered
+10-Sep-2023,AJO800033,Leather Jacket,Women,"Rs. 1,617",1,Hyderabad,Delivered
+29-Mar-2023,AJO800034,Leather Jacket,Kids,"1,658",1,Kolkata,Processing
+10-Oct-2023,AJO800035,Leather Jacket,Men,"Rs. 1,799",1,Bangalore,Cancelled
+10-Apr-2023,AJO800036,Ethnic Kurti,Women,₹713.86,1,Kolkata,Delivered
+04-Dec-2023,AJO800037,Leather Jacket,Men,"Rs. 1,273",1,Chennai,Delivered
+17-Oct-2023,AJO800038,Graphic Tee,Kids,825,2,Indore,Processing
+11-Dec-2023,AJO800039,Slim Fit Trousers,Men,"₹2,155.12",2,Chennai,Processing
+16-Dec-2023,AJO800040,Ethnic Kurti,Women,891,2,Jaipur,Processing
+05-Nov-2023,AJO800041,Slim Fit Trousers,Kids,"1,350",2,Jaipur,Delivered
+17-Oct-2023,AJO800042,Ethnic Kurti,Men,"₹1,892.21",1,Surat,Cancelled
+31-Mar-2023,AJO800043,Graphic Tee,Women,"₹1,069.06",2,Kolkata,Processing
+03-Feb-2023,AJO800044,Slim Fit Trousers,Kids,"1,986",2,Lucknow,Cancelled
+29-Oct-2023,AJO800045,Graphic Tee,Women,"Rs. 2,617",1,Chennai,Processing
+07-Mar-2023,AJO800046,Graphic Tee,Women,"1,633",1,Indore,Cancelled
+03-Feb-2023,AJO800047,Ethnic Kurti,Men,"Rs. 2,131",2,Kolkata,Delivered
+07-Mar-2023,AJO800048,Graphic Tee,Women,Rs. 299,2,Indore,Cancelled
+13-May-2023,AJO800049,Graphic Tee,Women,"₹1,199.66",1,Delhi,Delivered
+19-Oct-2023,AJO800050,Ethnic Kurti,Kids,"₹1,629.43",2,Delhi,Cancelled
+27-Apr-2023,AJO800051,Leather Jacket,Women,(763),2,Surat,Cancelled
+25-Sep-2023,AJO800052,Ethnic Kurti,Kids,"₹1,645.35",2,Lucknow,Cancelled
+21-May-2023,AJO800053,Graphic Tee,Kids,"2,242",2,Pune,Processing
+09-Apr-2023,AJO800054,Ethnic Kurti,Women,Rs. 299,1,Bangalore,Delivered
+14-Dec-2023,AJO800055,Graphic Tee,Women,₹667.65,1,Chennai,Cancelled
+12-Jan-2023,AJO800056,Slim Fit Trousers,Kids,"Rs. 1,629",1,Indore,Processing
+21-Dec-2023,AJO800057,Leather Jacket,Men,"₹1,822.29",2,Hyderabad,Delivered
+14-Dec-2023,AJO800058,Slim Fit Trousers,Kids,"Rs. 2,017",2,Indore,Cancelled
+30-Sep-2023,AJO800059,Slim Fit Trousers,Men,"Rs. 1,578",2,Kolkata,Cancelled
+11-Nov-2023,AJO800060,Leather Jacket,Men,"₹1,823.06",2,Indore,Delivered
+10-May-2023,AJO800061,Slim Fit Trousers,Men,"2,132",2,Chennai,Cancelled
+15-Dec-2023,AJO800062,Slim Fit Trousers,Women,"1,210",1,Mumbai,Processing
+14-Oct-2023,AJO800063,Graphic Tee,Kids,"1,074",2,Bangalore,Processing
+21-Aug-2023,AJO800064,Leather Jacket,Kids,"Rs. 1,382",2,Ahmedabad,Cancelled
+02-Jan-2023,AJO800065,Ethnic Kurti,Kids,"Rs. 1,640",1,Mumbai,Cancelled
+07-Aug-2023,AJO800066,Graphic Tee,Kids,"1,039",2,Delhi,Cancelled
+25-Nov-2023,AJO800067,Leather Jacket,Kids,"₹1,224.37",1,Delhi,Cancelled
+11-Dec-2023,AJO800068,Slim Fit Trousers,Women,"Rs. 1,778",1,Indore,Processing
+29-Nov-2023,AJO800069,Slim Fit Trousers,Women,"Rs. 1,610",1,Kolkata,Cancelled
+27-Jan-2023,AJO800070,Graphic Tee,Men,"₹1,370.26",1,Jaipur,Cancelled
+15-Jun-2023,AJO800071,Graphic Tee,Women,299,1,Kolkata,Cancelled
+10-Aug-2023,AJO800072,Leather Jacket,Men,"1,498",2,Surat,Processing
+28-Jul-2023,AJO800073,Graphic Tee,Kids,Rs. 821,1,Chennai,Delivered
+21-May-2023,AJO800074,Graphic Tee,Women,"₹2,188.16",1,Indore,Delivered
+04-Mar-2023,AJO800075,Leather Jacket,Men,"1,284",2,Kolkata,Processing
+15-Dec-2023,AJO800076,Graphic Tee,Women,₹802.64,2,Bangalore,Delivered
+23-Sep-2023,AJO800077,Leather Jacket,Men,"1,457",1,Bangalore,Processing
+27-Aug-2023,AJO800078,Graphic Tee,Women,"Rs. 2,389",2,Pune,Delivered
+11-Sep-2023,AJO800079,Graphic Tee,Kids,"₹1,941.57",2,Bangalore,Delivered
+05-Jul-2023,AJO800080,Graphic Tee,Women,"1,654",1,Indore,Delivered
+22-Sep-2023,AJO800081,Slim Fit Trousers,Kids,572,1,Bangalore,Processing
+23-Jan-2023,AJO800082,Graphic Tee,Women,"₹2,635.12",2,Hyderabad,Cancelled
+25-Apr-2023,AJO800083,Leather Jacket,Men,"₹1,064.86",1,Ahmedabad,Cancelled
+25-Jan-2023,AJO800084,Slim Fit Trousers,Men,"Rs. 2,154",1,Bangalore,Delivered
+23-May-2023,AJO800085,Slim Fit Trousers,Men,"1,272",2,Jaipur,Cancelled
+04-Aug-2023,AJO800086,Graphic Tee,Kids,"2,086",1,Delhi,Delivered
+30-Sep-2023,AJO800087,Ethnic Kurti,Kids,"₹2,414.81",1,Ahmedabad,Cancelled
+18-Aug-2023,AJO800088,Slim Fit Trousers,Men,"Rs. 1,954",1,Lucknow,Processing
+11-Jun-2023,AJO800089,Leather Jacket,Men,"2,029",1,Hyderabad,Delivered
+03-Jan-2023,AJO800090,Graphic Tee,Kids,"₹1,431.09",1,Bangalore,Processing
+20-Jul-2023,AJO800091,Leather Jacket,Kids,"1,196",2,Hyderabad,Processing
+10-Apr-2023,AJO800092,Ethnic Kurti,Women,"1,597",2,Mumbai,Cancelled
+21-Jun-2023,AJO800093,Graphic Tee,Men,"Rs. 1,262",1,Indore,Cancelled
+11-Feb-2023,AJO800094,Leather Jacket,Men,"3,227",2,Bangalore,Delivered
+20-Oct-2023,AJO800095,Leather Jacket,Men,Rs. 805,1,Hyderabad,Processing
+13-Jan-2023,AJO800096,Graphic Tee,Men,"2,201",1,Chennai,Delivered
+26-Apr-2023,AJO800097,Ethnic Kurti,Women,"1,862",1,Kolkata,Cancelled
+20-Dec-2023,AJO800098,Slim Fit Trousers,Women,"₹1,660.91",1,Ahmedabad,Cancelled
+05-Aug-2023,AJO800099,Slim Fit Trousers,Men,"2,536",1,Surat,Delivered
+08-Feb-2023,AJO800100,Graphic Tee,Men,"Rs. 1,709",2,Lucknow,Processing
+08-May-2023,AJO800101,Graphic Tee,Women,"₹1,055.57",2,Delhi,Processing
+11-Apr-2023,AJO800102,Graphic Tee,Kids,"Rs. 1,704",1,Surat,Processing
+26-Mar-2023,AJO800103,Graphic Tee,Kids,"₹1,371.78",2,Bangalore,Processing
+18-Jun-2023,AJO800104,Ethnic Kurti,Men,"₹1,852.30",1,Delhi,Cancelled
+09-Jun-2023,AJO800105,Leather Jacket,Women,"2,069",2,Chennai,Delivered
+02-Feb-2023,AJO800106,Leather Jacket,Men,Rs. 899,1,Delhi,Cancelled
+17-Nov-2023,AJO800107,Ethnic Kurti,Women,"2,337",2,Kolkata,Cancelled
+17-Nov-2023,AJO800108,Graphic Tee,Kids,"₹1,321.57",1,Delhi,Cancelled
+19-Feb-2023,AJO800109,Slim Fit Trousers,Men,"₹1,810.53",1,Chennai,Cancelled
+15-Jan-2023,AJO800110,Graphic Tee,Men,"Rs. 1,932",2,Delhi,Delivered
+03-Sep-2023,AJO800111,Leather Jacket,Women,"1,757",2,Pune,Delivered
+10-Aug-2023,AJO800112,Graphic Tee,Women,"1,424",1,Mumbai,Processing
+13-Jan-2023,AJO800113,Leather Jacket,Women,"Rs. 1,158",2,Lucknow,Delivered
+31-Oct-2023,AJO800114,Graphic Tee,Men,"1,312",1,Hyderabad,Cancelled
+17-Nov-2023,AJO800115,Slim Fit Trousers,Men,"₹2,595.62",2,Ahmedabad,Processing
+21-Jun-2023,AJO800116,Leather Jacket,Men,Rs. 894,2,Ahmedabad,Processing
+09-May-2023,AJO800117,Graphic Tee,Kids,997,1,Surat,Delivered
+07-May-2023,AJO800118,Ethnic Kurti,Women,966,2,Delhi,Processing
+25-Feb-2023,AJO800119,Graphic Tee,Women,"Rs. 1,595",2,Mumbai,Delivered
+31-Aug-2023,AJO800120,Slim Fit Trousers,Kids,433,1,Mumbai,Processing
+03-May-2023,AJO800121,Ethnic Kurti,Men,553,2,Chennai,Cancelled
+24-Jun-2023,AJO800122,Slim Fit Trousers,Women,"₹1,317.33",1,Mumbai,Processing
+28-Jan-2023,AJO800123,Graphic Tee,Men,599,1,Surat,Delivered
+20-Jun-2023,AJO800124,Ethnic Kurti,Men,656,1,Lucknow,Cancelled
+24-Sep-2023,AJO800125,Leather Jacket,Men,₹603.81,1,Mumbai,Processing
+02-May-2023,AJO800126,Ethnic Kurti,Women,Rs. 907,1,Delhi,Delivered
+07-Feb-2023,AJO800127,Ethnic Kurti,Women,"2,012",2,Hyderabad,Cancelled
+04-Nov-2023,AJO800128,Graphic Tee,Kids,"2,169",1,Jaipur,Cancelled
+14-Nov-2023,AJO800129,Leather Jacket,Kids,"Rs. 2,843",1,Mumbai,Cancelled
+13-Aug-2023,AJO800130,Leather Jacket,Women,"Rs. 2,818",2,Kolkata,Delivered
+18-Feb-2023,AJO800131,Ethnic Kurti,Men,"₹2,050.42",2,Lucknow,Cancelled
+17-Nov-2023,AJO800132,Ethnic Kurti,Kids,"Rs. 2,219",2,Jaipur,Processing
+17-Aug-2023,AJO800133,Ethnic Kurti,Kids,"Rs. 1,592",1,Chennai,Processing
+24-Oct-2023,AJO800134,Leather Jacket,Women,"1,864",1,Ahmedabad,Cancelled
+05-Mar-2023,AJO800135,Ethnic Kurti,Kids,"Rs. 2,861",1,Ahmedabad,Cancelled
+13-Feb-2023,AJO800136,Slim Fit Trousers,Men,"1,760",2,Pune,Delivered
+01-Feb-2023,AJO800137,Graphic Tee,Kids,"₹2,307.27",1,Lucknow,Processing
+18-Jan-2023,AJO800138,Graphic Tee,Kids,846,2,Kolkata,Cancelled
+13-Jul-2023,AJO800139,Graphic Tee,Kids,"Rs. 1,034",1,Pune,Cancelled
+10-Jun-2023,AJO800140,Ethnic Kurti,Women,"₹1,718.45",2,Pune,Processing
+22-Dec-2023,AJO800141,Graphic Tee,Women,"Rs. 1,605",1,Surat,Cancelled
+03-Feb-2023,AJO800142,Ethnic Kurti,Men,"Rs. 1,066",1,Pune,Delivered
+07-Mar-2023,AJO800143,Graphic Tee,Men,"Rs. 3,185",1,Pune,Processing
+01-Feb-2023,AJO800144,Leather Jacket,Men,"₹1,620.82",2,Hyderabad,Processing
+15-Aug-2023,AJO800145,Ethnic Kurti,Women,"Rs. 1,190",2,Pune,Cancelled
+29-Jan-2023,AJO800146,Ethnic Kurti,Men,"Rs. 1,606",1,Surat,Processing
+04-Jun-2023,AJO800147,Graphic Tee,Women,"Rs. 1,518",1,Kolkata,Delivered
+09-Nov-2023,AJO800148,Leather Jacket,Kids,"₹1,631.46",1,Kolkata,Processing
+17-Nov-2023,AJO800149,Leather Jacket,Men,384,2,Lucknow,Delivered
+10-Aug-2023,AJO800150,Slim Fit Trousers,Kids,"2,404",1,Mumbai,Cancelled
+03-Feb-2023,AJO800151,Graphic Tee,Women,"Rs. 2,444",1,Pune,Delivered
+22-Feb-2023,AJO800152,Slim Fit Trousers,Kids,"Rs. 2,529",1,Pune,Cancelled
+13-Dec-2023,AJO800153,Leather Jacket,Women,"Rs. 1,728",1,Delhi,Delivered
+29-Jan-2023,AJO800154,Ethnic Kurti,Women,"1,964",2,Mumbai,Cancelled
+14-Oct-2023,AJO800155,Leather Jacket,Women,Rs. 894,2,Ahmedabad,Cancelled
+27-Jan-2023,AJO800156,Graphic Tee,Kids,"2,083",1,Indore,Delivered
+31-May-2023,AJO800157,Slim Fit Trousers,Men,"1,676",1,Kolkata,Delivered
+15-Jul-2023,AJO800158,Ethnic Kurti,Kids,"1,178",2,Indore,Processing
+25-Jul-2023,AJO800159,Leather Jacket,Men,"Rs. 2,105",2,Bangalore,Cancelled
+19-Feb-2023,AJO800160,Ethnic Kurti,Women,"2,132",1,Mumbai,Processing
+13-Nov-2023,AJO800161,Ethnic Kurti,Kids,"1,542",2,Lucknow,Processing
+30-Jul-2023,AJO800162,Ethnic Kurti,Women,"1,807",2,Delhi,Cancelled
+30-Apr-2023,AJO800163,Ethnic Kurti,Women,778,1,Jaipur,Delivered
+03-Nov-2023,AJO800164,Ethnic Kurti,Kids,"2,370",2,Chennai,Delivered
+04-Dec-2023,AJO800165,Leather Jacket,Kids,871,2,Indore,Cancelled
+16-Nov-2023,AJO800166,Ethnic Kurti,Women,"(1,006)",1,Hyderabad,Processing
+06-Jan-2023,AJO800167,Leather Jacket,Women,"1,544",1,Pune,Processing
+21-Aug-2023,AJO800168,Leather Jacket,Kids,"₹2,280.16",2,Ahmedabad,Processing
+16-Jul-2023,AJO800169,Ethnic Kurti,Men,"2,280",1,Lucknow,Cancelled
+26-Aug-2023,AJO800170,Slim Fit Trousers,Women,"Rs. 1,497",2,Surat,Processing
+08-Aug-2023,AJO800171,Graphic Tee,Men,"Rs. 2,041",1,Surat,Processing
+14-Nov-2023,AJO800172,Ethnic Kurti,Men,318,2,Ahmedabad,Processing
+14-Nov-2023,AJO800173,Graphic Tee,Kids,996,1,Jaipur,Processing
+21-Feb-2023,AJO800174,Leather Jacket,Kids,"1,011",2,Kolkata,Delivered
+23-Jun-2023,AJO800175,Slim Fit Trousers,Women,"2,377",2,Surat,Cancelled
+30-Nov-2023,AJO800176,Leather Jacket,Women,"Rs. 1,958",2,Hyderabad,Cancelled
+12-Dec-2023,AJO800177,Slim Fit Trousers,Women,"1,629",1,Mumbai,Processing
+14-Jan-2023,AJO800178,Leather Jacket,Kids,"Rs. 1,697",1,Surat,Processing
+21-Aug-2023,AJO800179,Slim Fit Trousers,Men,"₹2,597.84",2,Pune,Cancelled
+22-Sep-2023,AJO800180,Leather Jacket,Kids,"₹1,380.87",2,Mumbai,Delivered
+18-Jun-2023,AJO800181,Graphic Tee,Kids,580,1,Surat,Cancelled
+28-Oct-2023,AJO800182,Slim Fit Trousers,Men,"2,261",1,Pune,Cancelled
+09-Apr-2023,AJO800183,Slim Fit Trousers,Women,"1,627",1,Mumbai,Processing
+25-Feb-2023,AJO800184,Slim Fit Trousers,Kids,"2,168",1,Indore,Delivered
+22-Feb-2023,AJO800185,Leather Jacket,Men,"1,469",1,Pune,Delivered
+07-Jan-2023,AJO800186,Slim Fit Trousers,Men,₹912.92,1,Surat,Processing
+01-Nov-2023,AJO800187,Graphic Tee,Men,"1,782",2,Ahmedabad,Cancelled
+04-Feb-2023,AJO800188,Leather Jacket,Women,"₹1,507.12",1,Hyderabad,Delivered
+31-Oct-2023,AJO800189,Graphic Tee,Kids,"1,629",2,Lucknow,Cancelled
+10-Apr-2023,AJO800190,Leather Jacket,Kids,"Rs. 2,632",1,Ahmedabad,Processing
+21-Oct-2023,AJO800191,Leather Jacket,Women,Rs. 731,1,Kolkata,Processing
+06-Mar-2023,AJO800192,Leather Jacket,Kids,"1,700",2,Indore,Cancelled
+23-Nov-2023,AJO800193,Leather Jacket,Men,927,2,Lucknow,Delivered
+18-Sep-2023,AJO800194,Graphic Tee,Kids,299,1,Delhi,Cancelled
+12-May-2023,AJO800195,Graphic Tee,Kids,"1,466",2,Pune,Delivered
+01-Jul-2023,AJO800196,Leather Jacket,Kids,"₹1,521.72",2,Kolkata,Processing
+04-Aug-2023,AJO800197,Slim Fit Trousers,Men,"1,936",2,Ahmedabad,Cancelled
+04-Sep-2023,AJO800198,Leather Jacket,Women,"Rs. 1,348",2,Surat,Processing
+14-Nov-2023,AJO800199,Leather Jacket,Women,Rs. 458,1,Indore,Processing

@@ -1,0 +1,201 @@
+order_time,order_id,item_name,product_category,price,quantity,delivery_city
+2023-07-08 00:00:00,BLK900000,Cold Drink 750ml,Packaged Food,20,4,Ahmedabad
+2023-07-24 00:00:00,BLK900001,Instant Noodles Pack,Bakery,437,4,Bangalore
+2023-07-26 00:00:00,BLK900002,Milk 1L,Dairy,₹224.92,1,Jaipur
+2023-12-23 00:00:00,BLK900003,Cold Drink 750ml,Beverages,Rs. 350,5,Kolkata
+2023-12-09 00:00:00,BLK900004,Onions 1kg,Beverages,500,1,Hyderabad
+2023-07-21 00:00:00,BLK900005,Onions 1kg,Bakery,Rs. 615,2,Hyderabad
+2023-12-06 00:00:00,BLK900006,Instant Noodles Pack,Packaged Food,153,3,Hyderabad
+2023-11-14 00:00:00,BLK900007,Bread Loaf,Dairy,₹270.09,5,Mumbai
+2023-06-03 00:00:00,BLK900008,Instant Noodles Pack,Packaged Food,₹455.03,2,Indore
+2023-09-01 00:00:00,BLK900009,Instant Noodles Pack,Dairy,Rs. 123,5,Bangalore
+2023-12-03 00:00:00,BLK900010,Milk 1L,Bakery,163,2,Delhi
+2023-10-26 00:00:00,BLK900011,Onions 1kg,Vegetables,₹161.79,3,Indore
+2023-06-27 00:00:00,BLK900012,Instant Noodles Pack,Bakery,Rs. 246,3,Indore
+2023-11-21 00:00:00,BLK900013,Bread Loaf,Packaged Food,217,4,Bangalore
+2023-12-19 00:00:00,BLK900014,Cold Drink 750ml,Packaged Food,161,2,Kolkata
+2023-07-08 00:00:00,BLK900015,Bread Loaf,Vegetables,105,4,Indore
+2023-09-05 00:00:00,BLK900016,Milk 1L,Vegetables,372,2,Mumbai
+2023-09-18 00:00:00,BLK900017,Onions 1kg,Vegetables,Rs. 451,4,Indore
+2023-11-21 00:00:00,BLK900018,Bread Loaf,Packaged Food,Rs. 472,3,Kolkata
+2023-07-14 00:00:00,BLK900019,Onions 1kg,Bakery,₹177.84,5,Pune
+2023-06-15 00:00:00,BLK900020,Cold Drink 750ml,Beverages,Rs. 378,4,Mumbai
+2023-06-25 00:00:00,BLK900021,Cold Drink 750ml,Vegetables,Rs. 285,2,Indore
+2023-08-31 00:00:00,BLK900022,Cold Drink 750ml,Dairy,₹164.40,2,Delhi
+2023-09-30 00:00:00,BLK900023,Bread Loaf,Packaged Food,360,3,Surat
+2023-07-16 00:00:00,BLK900024,Instant Noodles Pack,Packaged Food,158,2,Lucknow
+2023-06-14 00:00:00,BLK900025,Bread Loaf,Bakery,194,1,Delhi
+2023-07-01 00:00:00,BLK900026,Onions 1kg,Bakery,Rs. 43,5,Ahmedabad
+2023-10-10 00:00:00,BLK900027,Instant Noodles Pack,Vegetables,180,4,Lucknow
+2023-11-14 00:00:00,BLK900028,Instant Noodles Pack,Packaged Food,288,5,Bangalore
+2023-08-26 00:00:00,BLK900029,Milk 1L,Dairy,₹485.34,3,Mumbai
+2023-10-30 00:00:00,BLK900030,Cold Drink 750ml,Vegetables,Rs. 197,4,Bangalore
+2023-09-20 00:00:00,BLK900031,Bread Loaf,Bakery,Rs. 94,4,Pune
+2023-07-09 00:00:00,BLK900032,Milk 1L,Dairy,₹474.61,1,Bangalore
+2023-11-08 00:00:00,BLK900033,Onions 1kg,Bakery,Rs. 174,3,Delhi
+2023-12-02 00:00:00,BLK900034,Milk 1L,Vegetables,20,2,Hyderabad
+2023-09-12 00:00:00,BLK900035,Cold Drink 750ml,Dairy,₹269.96,1,Delhi
+2023-08-02 00:00:00,BLK900036,Milk 1L,Bakery,Rs. 201,1,Mumbai
+2023-06-09 00:00:00,BLK900037,Cold Drink 750ml,Packaged Food,595,5,Lucknow
+2023-07-01 00:00:00,BLK900038,Instant Noodles Pack,Packaged Food,Rs. 321,5,Kolkata
+2023-08-01 00:00:00,BLK900039,Milk 1L,Vegetables,228,5,Bangalore
+2023-09-10 00:00:00,BLK900040,Onions 1kg,Dairy,₹111.33,1,Bangalore
+2023-10-04 00:00:00,BLK900041,Milk 1L,Bakery,Rs. 300,2,Ahmedabad
+2023-08-17 00:00:00,BLK900042,Onions 1kg,Bakery,Rs. 469,4,Indore
+2023-11-24 00:00:00,BLK900043,Onions 1kg,Packaged Food,₹296.77,5,Bangalore
+2023-10-31 00:00:00,BLK900044,Onions 1kg,Vegetables,₹122.89,2,Indore
+2023-07-15 00:00:00,BLK900045,Bread Loaf,Dairy,331,3,Jaipur
+2023-11-15 00:00:00,BLK900046,Bread Loaf,Packaged Food,243,5,Indore
+2023-12-08 00:00:00,BLK900047,Onions 1kg,Packaged Food,317,4,Chennai
+2023-09-05 00:00:00,BLK900048,Milk 1L,Beverages,₹196.78,3,Ahmedabad
+2023-12-16 00:00:00,BLK900049,Milk 1L,Packaged Food,193,3,Kolkata
+2023-11-25 00:00:00,BLK900050,Instant Noodles Pack,Bakery,Rs. 187,4,Indore
+2023-12-21 00:00:00,BLK900051,Bread Loaf,Vegetables,391,5,Pune
+2023-11-19 00:00:00,BLK900052,Instant Noodles Pack,Packaged Food,195,1,Ahmedabad
+2023-11-16 00:00:00,BLK900053,Milk 1L,Beverages,181,4,Surat
+2023-06-23 00:00:00,BLK900054,Milk 1L,Packaged Food,₹108.69,4,Indore
+2023-12-17 00:00:00,BLK900055,Bread Loaf,Bakery,₹318.10,4,Mumbai
+2023-09-27 00:00:00,BLK900056,Cold Drink 750ml,Dairy,297,3,Chennai
+2023-12-27 00:00:00,BLK900057,Onions 1kg,Dairy,Rs. 183,2,Delhi
+2023-11-14 00:00:00,BLK900058,Cold Drink 750ml,Dairy,144,1,Bangalore
+2023-09-06 00:00:00,BLK900059,Instant Noodles Pack,Bakery,Rs. 531,5,Mumbai
+2023-08-10 00:00:00,BLK900060,Milk 1L,Bakery,20,5,Surat
+2023-11-09 00:00:00,BLK900061,Cold Drink 750ml,Vegetables,₹323.98,2,Mumbai
+2023-11-15 00:00:00,BLK900062,Onions 1kg,Beverages,₹443.71,4,Lucknow
+2023-09-22 00:00:00,BLK900063,Cold Drink 750ml,Dairy,20,1,Bangalore
+2023-09-03 00:00:00,BLK900064,Onions 1kg,Bakery,369,5,Jaipur
+2023-06-03 00:00:00,BLK900065,Cold Drink 750ml,Dairy,Rs. 217,5,Bangalore
+2023-07-01 00:00:00,BLK900066,Onions 1kg,Vegetables,288,4,Mumbai
+2023-06-30 00:00:00,BLK900067,Cold Drink 750ml,Packaged Food,202,2,Kolkata
+2023-06-22 00:00:00,BLK900068,Milk 1L,Beverages,Rs. 411,1,Kolkata
+2023-07-02 00:00:00,BLK900069,Milk 1L,Dairy,304,2,Surat
+2023-10-04 00:00:00,BLK900070,Bread Loaf,Packaged Food,Rs. 270,2,Ahmedabad
+2023-11-12 00:00:00,BLK900071,Onions 1kg,Packaged Food,115,1,Jaipur
+2023-11-19 00:00:00,BLK900072,Instant Noodles Pack,Vegetables,532,1,Indore
+2023-10-09 00:00:00,BLK900073,Bread Loaf,Vegetables,Rs. 251,5,Chennai
+2023-07-28 00:00:00,BLK900074,Onions 1kg,Packaged Food,593,5,Lucknow
+2023-06-06 00:00:00,BLK900075,Cold Drink 750ml,Dairy,Rs. 539,1,Jaipur
+2023-10-29 00:00:00,BLK900076,Cold Drink 750ml,Packaged Food,Rs. 20,3,Chennai
+2023-10-25 00:00:00,BLK900077,Cold Drink 750ml,Bakery,152,5,Indore
+2023-10-25 00:00:00,BLK900078,Instant Noodles Pack,Beverages,Rs. 94,3,Hyderabad
+2023-10-01 00:00:00,BLK900079,Instant Noodles Pack,Bakery,243,1,Kolkata
+2023-08-10 00:00:00,BLK900080,Cold Drink 750ml,Beverages,₹278.07,5,Bangalore
+2023-11-25 00:00:00,BLK900081,Bread Loaf,Bakery,284,2,Chennai
+2023-12-08 00:00:00,BLK900082,Onions 1kg,Bakery,Rs. 408,1,Delhi
+2023-06-25 00:00:00,BLK900083,Milk 1L,Vegetables,Rs. 474,4,Jaipur
+2023-12-21 00:00:00,BLK900084,Cold Drink 750ml,Dairy,395,3,Kolkata
+2023-10-30 00:00:00,BLK900085,Bread Loaf,Vegetables,Rs. 166,1,Bangalore
+2023-07-17 00:00:00,BLK900086,Bread Loaf,Bakery,₹132.70,1,Indore
+2023-09-07 00:00:00,BLK900087,Bread Loaf,Packaged Food,Rs. 250,5,Hyderabad
+2023-10-02 00:00:00,BLK900088,Instant Noodles Pack,Bakery,₹313.92,5,Kolkata
+2023-11-13 00:00:00,BLK900089,Cold Drink 750ml,Packaged Food,223,5,Lucknow
+2023-11-27 00:00:00,BLK900090,Onions 1kg,Dairy,48,4,Mumbai
+2023-09-20 00:00:00,BLK900091,Milk 1L,Beverages,Rs. 352,5,Hyderabad
+2023-08-16 00:00:00,BLK900092,Onions 1kg,Beverages,₹191.15,1,Kolkata
+2023-10-25 00:00:00,BLK900093,Bread Loaf,Bakery,₹186.62,5,Bangalore
+2023-07-03 00:00:00,BLK900094,Cold Drink 750ml,Bakery,242,2,Indore
+2023-06-26 00:00:00,BLK900095,Instant Noodles Pack,Beverages,₹214.02,5,Jaipur
+2023-08-23 00:00:00,BLK900096,Instant Noodles Pack,Bakery,₹195.02,4,Lucknow
+2023-06-17 00:00:00,BLK900097,Bread Loaf,Bakery,₹57.98,2,Delhi
+2023-11-30 00:00:00,BLK900098,Instant Noodles Pack,Dairy,Rs. 233,1,Indore
+2023-12-21 00:00:00,BLK900099,Onions 1kg,Bakery,Rs. 355,1,Ahmedabad
+2023-10-16 00:00:00,BLK900100,Instant Noodles Pack,Packaged Food,₹289.70,3,Ahmedabad
+2023-07-18 00:00:00,BLK900101,Cold Drink 750ml,Dairy,392,2,Pune
+2023-09-12 00:00:00,BLK900102,Onions 1kg,Vegetables,Rs. 141,3,Surat
+2023-12-26 00:00:00,BLK900103,Onions 1kg,Bakery,₹58.29,2,Surat
+2023-11-27 00:00:00,BLK900104,Instant Noodles Pack,Bakery,₹213.12,2,Kolkata
+2023-06-06 00:00:00,BLK900105,Cold Drink 750ml,Packaged Food,₹157.86,4,Kolkata
+2023-09-09 00:00:00,BLK900106,Bread Loaf,Dairy,173,3,Bangalore
+2023-10-21 00:00:00,BLK900107,Onions 1kg,Beverages,₹281.76,4,Mumbai
+2023-12-27 00:00:00,BLK900108,Milk 1L,Bakery,Rs. 175,2,Pune
+2023-10-16 00:00:00,BLK900109,Onions 1kg,Dairy,Rs. 62,1,Surat
+2023-12-18 00:00:00,BLK900110,Instant Noodles Pack,Dairy,166,2,Kolkata
+2023-12-25 00:00:00,BLK900111,Onions 1kg,Packaged Food,301,4,Hyderabad
+2023-10-14 00:00:00,BLK900112,Milk 1L,Packaged Food,351,3,Chennai
+2023-10-04 00:00:00,BLK900113,Milk 1L,Beverages,349,3,Delhi
+2023-06-17 00:00:00,BLK900114,Milk 1L,Vegetables,314,4,Delhi
+2023-10-11 00:00:00,BLK900115,Bread Loaf,Bakery,₹224.79,3,Delhi
+2023-10-28 00:00:00,BLK900116,Milk 1L,Bakery,311,5,Pune
+2023-10-16 00:00:00,BLK900117,Bread Loaf,Vegetables,₹243.65,1,Lucknow
+2023-11-30 00:00:00,BLK900118,Cold Drink 750ml,Packaged Food,₹266.96,1,Pune
+2023-12-27 00:00:00,BLK900119,Milk 1L,Packaged Food,₹109.10,1,Mumbai
+2023-12-20 00:00:00,BLK900120,Milk 1L,Dairy,₹256.58,3,Hyderabad
+2023-11-14 00:00:00,BLK900121,Onions 1kg,Beverages,307,3,Chennai
+2023-07-02 00:00:00,BLK900122,Cold Drink 750ml,Packaged Food,₹301.17,2,Bangalore
+2023-12-10 00:00:00,BLK900123,Instant Noodles Pack,Dairy,57,2,Jaipur
+2023-12-10 00:00:00,BLK900124,Milk 1L,Vegetables,Rs. 264,1,Delhi
+2023-07-24 00:00:00,BLK900125,Instant Noodles Pack,Dairy,₹33.42,5,Delhi
+2023-11-16 00:00:00,BLK900126,Cold Drink 750ml,Vegetables,Rs. 276,2,Hyderabad
+2023-07-01 00:00:00,BLK900127,Bread Loaf,Vegetables,145,2,Lucknow
+2023-07-17 00:00:00,BLK900128,Instant Noodles Pack,Vegetables,506,3,Mumbai
+2023-11-01 00:00:00,BLK900129,Instant Noodles Pack,Vegetables,268,5,Chennai
+2023-11-25 00:00:00,BLK900130,Cold Drink 750ml,Packaged Food,Rs. 370,1,Hyderabad
+2023-07-17 00:00:00,BLK900131,Cold Drink 750ml,Bakery,567,2,Jaipur
+2023-06-02 00:00:00,BLK900132,Milk 1L,Vegetables,₹127.39,5,Hyderabad
+2023-10-21 00:00:00,BLK900133,Instant Noodles Pack,Dairy,315,5,Surat
+2023-09-23 00:00:00,BLK900134,Milk 1L,Bakery,₹72.11,1,Mumbai
+2023-12-22 00:00:00,BLK900135,Cold Drink 750ml,Dairy,Rs. 302,5,Hyderabad
+2023-08-20 00:00:00,BLK900136,Bread Loaf,Dairy,₹514.86,5,Chennai
+2023-07-02 00:00:00,BLK900137,Milk 1L,Dairy,156,5,Delhi
+2023-06-11 00:00:00,BLK900138,Instant Noodles Pack,Vegetables,117,2,Lucknow
+2023-07-03 00:00:00,BLK900139,Cold Drink 750ml,Bakery,₹236.32,1,Lucknow
+2023-10-26 00:00:00,BLK900140,Onions 1kg,Vegetables,557,5,Mumbai
+2023-07-23 00:00:00,BLK900141,Bread Loaf,Packaged Food,₹365.66,5,Lucknow
+2023-11-15 00:00:00,BLK900142,Cold Drink 750ml,Vegetables,114,2,Ahmedabad
+2023-07-12 00:00:00,BLK900143,Cold Drink 750ml,Beverages,₹468.26,1,Mumbai
+2023-06-23 00:00:00,BLK900144,Milk 1L,Dairy,₹20.00,3,Mumbai
+2023-10-22 00:00:00,BLK900145,Cold Drink 750ml,Packaged Food,Rs. 570,2,Pune
+2023-08-05 00:00:00,BLK900146,Instant Noodles Pack,Bakery,Rs. 378,1,Delhi
+2023-12-10 00:00:00,BLK900147,Bread Loaf,Vegetables,515,5,Chennai
+2023-06-09 00:00:00,BLK900148,Cold Drink 750ml,Packaged Food,Rs. 20,1,Mumbai
+2023-06-22 00:00:00,BLK900149,Bread Loaf,Vegetables,275,1,Pune
+2023-07-02 00:00:00,BLK900150,Bread Loaf,Vegetables,230,1,Chennai
+2023-10-08 00:00:00,BLK900151,Milk 1L,Vegetables,99,3,Kolkata
+2023-08-16 00:00:00,BLK900152,Onions 1kg,Dairy,56,1,Jaipur
+2023-09-02 00:00:00,BLK900153,Bread Loaf,Dairy,₹326.06,3,Hyderabad
+2023-10-18 00:00:00,BLK900154,Cold Drink 750ml,Dairy,340,5,Pune
+2023-07-14 00:00:00,BLK900155,Onions 1kg,Beverages,445,3,Kolkata
+2023-09-17 00:00:00,BLK900156,Milk 1L,Bakery,174,5,Indore
+2023-11-16 00:00:00,BLK900157,Instant Noodles Pack,Vegetables,₹228.76,5,Pune
+2023-06-01 00:00:00,BLK900158,Instant Noodles Pack,Vegetables,₹42.63,3,Bangalore
+2023-08-03 00:00:00,BLK900159,Instant Noodles Pack,Vegetables,Rs. 481,2,Indore
+2023-08-16 00:00:00,BLK900160,Bread Loaf,Beverages,Rs. 260,4,Surat
+2023-06-12 00:00:00,BLK900161,Onions 1kg,Beverages,358,1,Delhi
+2023-10-11 00:00:00,BLK900162,Milk 1L,Beverages,Rs. 364,4,Pune
+2023-12-18 00:00:00,BLK900163,Onions 1kg,Vegetables,469,1,Kolkata
+2023-08-15 00:00:00,BLK900164,Bread Loaf,Bakery,125,1,Indore
+2023-11-16 00:00:00,BLK900165,Cold Drink 750ml,Vegetables,₹354.64,5,Jaipur
+2023-10-15 00:00:00,BLK900166,Milk 1L,Bakery,246,1,Delhi
+2023-09-22 00:00:00,BLK900167,Onions 1kg,Beverages,566,1,Jaipur
+2023-07-06 00:00:00,BLK900168,Onions 1kg,Packaged Food,Rs. 125,3,Bangalore
+2023-10-26 00:00:00,BLK900169,Instant Noodles Pack,Dairy,₹425.71,4,Mumbai
+2023-10-04 00:00:00,BLK900170,Onions 1kg,Dairy,303,3,Lucknow
+2023-11-25 00:00:00,BLK900171,Onions 1kg,Bakery,Rs. 295,1,Kolkata
+2023-08-20 00:00:00,BLK900172,Bread Loaf,Beverages,Rs. 258,5,Ahmedabad
+2023-10-12 00:00:00,BLK900173,Milk 1L,Dairy,452,3,Lucknow
+2023-08-30 00:00:00,BLK900174,Cold Drink 750ml,Dairy,290,3,Mumbai
+2023-11-03 00:00:00,BLK900175,Instant Noodles Pack,Beverages,21,2,Chennai
+2023-10-16 00:00:00,BLK900176,Bread Loaf,Bakery,433,1,Bangalore
+2023-10-09 00:00:00,BLK900177,Onions 1kg,Bakery,Rs. 405,5,Bangalore
+2023-07-24 00:00:00,BLK900178,Cold Drink 750ml,Packaged Food,Rs. 338,3,Surat
+2023-11-24 00:00:00,BLK900179,Milk 1L,Dairy,81,3,Ahmedabad
+2023-06-26 00:00:00,BLK900180,Instant Noodles Pack,Dairy,104,5,Delhi
+2023-11-17 00:00:00,BLK900181,Cold Drink 750ml,Beverages,20,1,Surat
+2023-12-27 00:00:00,BLK900182,Instant Noodles Pack,Beverages,Rs. 319,2,Delhi
+2023-06-12 00:00:00,BLK900183,Milk 1L,Vegetables,48,3,Indore
+2023-07-31 00:00:00,BLK900184,Onions 1kg,Vegetables,20,2,Hyderabad
+2023-06-10 00:00:00,BLK900185,Milk 1L,Packaged Food,Rs. 441,4,Hyderabad
+2023-07-19 00:00:00,BLK900186,Cold Drink 750ml,Bakery,₹365.23,1,Surat
+2023-07-07 00:00:00,BLK900187,Instant Noodles Pack,Beverages,Rs. 200,4,Surat
+2023-08-16 00:00:00,BLK900188,Onions 1kg,Bakery,230,4,Bangalore
+2023-12-31 00:00:00,BLK900189,Onions 1kg,Dairy,₹20.00,4,Indore
+2023-07-26 00:00:00,BLK900190,Onions 1kg,Bakery,Rs. 388,1,Bangalore
+2023-07-05 00:00:00,BLK900191,Milk 1L,Bakery,₹146.09,1,Jaipur
+2023-11-02 00:00:00,BLK900192,Milk 1L,Packaged Food,300,5,Jaipur
+2023-10-20 00:00:00,BLK900193,Onions 1kg,Beverages,20,2,Indore
+2023-07-26 00:00:00,BLK900194,Bread Loaf,Vegetables,₹396.64,2,Lucknow
+2023-10-30 00:00:00,BLK900195,Instant Noodles Pack,Beverages,₹137.07,5,Surat
+2023-08-31 00:00:00,BLK900196,Onions 1kg,Vegetables,44,5,Jaipur
+2023-08-11 00:00:00,BLK900197,Milk 1L,Vegetables,199,4,Pune
+2023-07-03 00:00:00,BLK900198,Milk 1L,Packaged Food,Rs. 161,5,Ahmedabad
+2023-12-04 00:00:00,BLK900199,Instant Noodles Pack,Dairy,411,3,Bangalore

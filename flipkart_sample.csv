@@ -1,0 +1,201 @@
+Order Date,order_id,product_title,sub_category,selling_price,units,delivery_city,delivery_status
+2023-07-10,OD200000,Power Bank 20000mAh,Computers,"20,063",2,Pune,Cancelled
+2023-03-08,OD200001,Power Bank 20000mAh,Audio,₹999.00,1,Bangalore,Delivered
+2023-10-12,OD200002,Smartwatch,Audio,999,2,Indore,In Transit
+2023-01-31,OD200003,Power Bank 20000mAh,Wearables,"Rs. 14,388",2,Ahmedabad,Cancelled
+2023-10-28,OD200004,Power Bank 20000mAh,Mobiles,"10,283",1,Surat,Cancelled
+2023-10-15,OD200005,Laptop 15.6in,Computers,"Rs. 12,614",2,Chennai,Cancelled
+2023-10-15,OD200006,Laptop 15.6in,Audio,"11,710",2,Indore,Delivered
+2023-06-18,OD200007,Bluetooth Earbuds,Computers,"₹22,872.19",1,Bangalore,Delivered
+2023-12-10,OD200008,Smartwatch,Mobiles,"Rs. 15,829",2,Mumbai,Cancelled
+2023-03-04,OD200009,Smartphone 128GB,Mobiles,"Rs. 17,141",1,Indore,Delivered
+2023-07-30,OD200010,Smartwatch,Audio,"Rs. 4,261",2,Pune,In Transit
+2023-07-01,OD200011,Smartwatch,Wearables,999,1,Chennai,In Transit
+2023-12-07,OD200012,Laptop 15.6in,Wearables,"₹23,988.33",1,Lucknow,Delivered
+2023-08-05,OD200013,Laptop 15.6in,Mobiles,"₹32,145.64",2,Surat,Cancelled
+2023-01-27,OD200014,Power Bank 20000mAh,Mobiles,"₹12,259.29",2,Hyderabad,Delivered
+2023-05-28,OD200015,Smartphone 128GB,Wearables,"₹16,994.52",2,Bangalore,Delivered
+2023-11-04,OD200016,Laptop 15.6in,Mobiles,"17,596",2,Lucknow,Delivered
+2023-06-09,OD200017,Power Bank 20000mAh,Audio,"Rs. 28,402",2,Surat,Cancelled
+2023-06-30,OD200018,Smartphone 128GB,Audio,"22,112",1,Kolkata,In Transit
+2023-02-23,OD200019,Laptop 15.6in,Computers,"₹18,968.51",2,Kolkata,Delivered
+2023-10-23,OD200020,Smartwatch,Wearables,"15,445",1,Jaipur,Cancelled
+2023-09-17,OD200021,Smartwatch,Mobiles,"15,482",1,Pune,Cancelled
+2023-04-19,OD200022,Smartphone 128GB,Computers,"3,484",2,Delhi,In Transit
+2023-03-21,OD200023,Smartphone 128GB,Audio,"11,932",1,Kolkata,Cancelled
+2023-12-03,OD200024,Laptop 15.6in,Wearables,"22,090",1,Surat,Cancelled
+2023-09-04,OD200025,Laptop 15.6in,Audio,"₹13,130.37",1,Delhi,Cancelled
+2023-04-25,OD200026,Smartphone 128GB,Mobiles,"₹15,354.80",1,Bangalore,In Transit
+2023-02-25,OD200027,Smartphone 128GB,Computers,"Rs. 5,591",2,Bangalore,Delivered
+2023-06-29,OD200028,Power Bank 20000mAh,Mobiles,"18,564",1,Ahmedabad,In Transit
+2023-10-12,OD200029,Power Bank 20000mAh,Mobiles,"3,306",2,Pune,Delivered
+2023-07-08,OD200030,Power Bank 20000mAh,Wearables,"Rs. 17,319",2,Hyderabad,Cancelled
+2023-02-28,OD200031,Smartwatch,Wearables,"13,502",1,Mumbai,Cancelled
+2023-05-23,OD200032,Smartwatch,Mobiles,"1,054",2,Chennai,Delivered
+2023-10-21,OD200033,Power Bank 20000mAh,Wearables,"23,556",2,Kolkata,In Transit
+2023-04-26,OD200034,Power Bank 20000mAh,Computers,"13,689",2,Hyderabad,In Transit
+2023-08-08,OD200035,Smartphone 128GB,Computers,"29,886",1,Ahmedabad,In Transit
+2023-10-15,OD200036,Smartwatch,Mobiles,"₹26,826.02",2,Chennai,Delivered
+2023-11-15,OD200037,Power Bank 20000mAh,Computers,"7,964",2,Pune,Cancelled
+2023-11-11,OD200038,Bluetooth Earbuds,Mobiles,"Rs. 8,666",2,Chennai,Cancelled
+2023-12-12,OD200039,Laptop 15.6in,Computers,"5,624",1,Lucknow,Cancelled
+2023-11-26,OD200040,Power Bank 20000mAh,Audio,"2,308",2,Indore,Delivered
+2023-10-13,OD200041,Smartwatch,Mobiles,"₹11,622.58",1,Lucknow,Cancelled
+2023-01-14,OD200042,Power Bank 20000mAh,Computers,"₹26,549.98",1,Mumbai,Cancelled
+2023-11-08,OD200043,Bluetooth Earbuds,Audio,999,1,Chennai,In Transit
+2023-12-03,OD200044,Smartphone 128GB,Mobiles,"21,816",1,Surat,Cancelled
+2023-12-22,OD200045,Smartwatch,Computers,"21,147",1,Pune,In Transit
+2023-05-17,OD200046,Smartphone 128GB,Computers,"Rs. 19,438",1,Indore,Delivered
+2023-01-15,OD200047,Laptop 15.6in,Audio,"20,865",2,Hyderabad,In Transit
+2023-04-03,OD200048,Smartphone 128GB,Wearables,"6,166",1,Mumbai,Cancelled
+2023-05-20,OD200049,Power Bank 20000mAh,Wearables,"Rs. 21,093",2,Surat,Cancelled
+2023-12-26,OD200050,Bluetooth Earbuds,Audio,"Rs. 10,606",2,Delhi,In Transit
+2023-06-08,OD200051,Smartphone 128GB,Audio,999,1,Ahmedabad,Cancelled
+2023-06-23,OD200052,Bluetooth Earbuds,Mobiles,"15,459",2,Chennai,In Transit
+2023-06-29,OD200053,Smartwatch,Wearables,"8,247",2,Bangalore,Cancelled
+2023-01-04,OD200054,Smartwatch,Mobiles,"(25,871)",2,Kolkata,In Transit
+2023-04-03,OD200055,Power Bank 20000mAh,Computers,"12,709",2,Surat,In Transit
+2023-03-15,OD200056,Power Bank 20000mAh,Audio,"Rs. 15,365",1,Jaipur,Delivered
+2023-10-17,OD200057,Power Bank 20000mAh,Mobiles,"Rs. 18,113",2,Indore,In Transit
+2023-12-03,OD200058,Bluetooth Earbuds,Audio,"12,861",1,Chennai,In Transit
+2023-07-25,OD200059,Laptop 15.6in,Mobiles,"₹14,169.27",2,Indore,Delivered
+2023-02-05,OD200060,Laptop 15.6in,Computers,"₹21,748.59",2,Delhi,Cancelled
+2023-03-14,OD200061,Laptop 15.6in,Computers,"6,469",1,Surat,In Transit
+2023-11-21,OD200062,Smartwatch,Wearables,"9,385",2,Chennai,Delivered
+2023-01-16,OD200063,Smartwatch,Wearables,"7,263",2,Pune,Delivered
+2023-02-16,OD200064,Laptop 15.6in,Computers,"₹26,494.04",2,Lucknow,In Transit
+2023-09-29,OD200065,Power Bank 20000mAh,Mobiles,"₹9,386.40",1,Hyderabad,Cancelled
+2023-04-21,OD200066,Smartphone 128GB,Audio,"13,854",2,Hyderabad,Delivered
+2023-07-12,OD200067,Laptop 15.6in,Computers,"10,195",1,Bangalore,In Transit
+2023-08-03,OD200068,Smartphone 128GB,Computers,"12,535",2,Ahmedabad,Delivered
+2023-08-21,OD200069,Laptop 15.6in,Mobiles,"9,101",1,Bangalore,Cancelled
+2023-06-24,OD200070,Smartphone 128GB,Computers,"18,702",1,Ahmedabad,In Transit
+2023-03-22,OD200071,Power Bank 20000mAh,Computers,"Rs. 6,673",2,Indore,In Transit
+2023-07-09,OD200072,Smartwatch,Mobiles,"4,180",2,Lucknow,Cancelled
+2023-06-09,OD200073,Laptop 15.6in,Computers,"10,533",1,Pune,Cancelled
+2023-06-16,OD200074,Laptop 15.6in,Wearables,"₹8,614.12",1,Kolkata,Delivered
+2023-10-18,OD200075,Power Bank 20000mAh,Wearables,"4,297",2,Indore,In Transit
+2023-11-02,OD200076,Bluetooth Earbuds,Wearables,"12,413",1,Jaipur,Delivered
+2023-02-13,OD200077,Laptop 15.6in,Wearables,"₹1,719.06",2,Ahmedabad,In Transit
+2023-01-27,OD200078,Smartphone 128GB,Computers,"Rs. 28,822",2,Jaipur,Delivered
+2023-03-21,OD200079,Power Bank 20000mAh,Audio,"₹3,059.19",2,Surat,In Transit
+2023-03-22,OD200080,Bluetooth Earbuds,Wearables,"9,830",2,Hyderabad,Cancelled
+2023-11-13,OD200081,Laptop 15.6in,Wearables,"11,772",1,Hyderabad,Delivered
+2023-01-26,OD200082,Laptop 15.6in,Computers,"28,477",2,Surat,In Transit
+2023-12-12,OD200083,Smartwatch,Computers,"Rs. 1,157",1,Lucknow,In Transit
+2023-02-11,OD200084,Bluetooth Earbuds,Mobiles,"Rs. 16,136",2,Delhi,Delivered
+2023-05-20,OD200085,Power Bank 20000mAh,Wearables,"23,297",1,Jaipur,Cancelled
+2023-08-15,OD200086,Smartphone 128GB,Mobiles,"₹12,522.06",2,Ahmedabad,Cancelled
+2023-12-05,OD200087,Laptop 15.6in,Wearables,"₹5,641.46",1,Jaipur,Delivered
+2023-08-06,OD200088,Power Bank 20000mAh,Audio,"Rs. 14,136",1,Indore,Delivered
+2023-09-06,OD200089,Smartwatch,Computers,"27,217",2,Pune,In Transit
+2023-11-07,OD200090,Laptop 15.6in,Computers,"10,074",2,Delhi,In Transit
+2023-08-15,OD200091,Bluetooth Earbuds,Mobiles,"Rs. 26,489",2,Lucknow,Cancelled
+2023-08-01,OD200092,Power Bank 20000mAh,Mobiles,"Rs. 17,069",2,Delhi,Cancelled
+2023-05-20,OD200093,Smartphone 128GB,Computers,"24,860",1,Mumbai,Cancelled
+2023-04-21,OD200094,Smartwatch,Computers,"16,749",2,Jaipur,Delivered
+2023-09-20,OD200095,Power Bank 20000mAh,Computers,"Rs. 11,125",1,Jaipur,Delivered
+2023-02-28,OD200096,Laptop 15.6in,Wearables,"28,111",1,Hyderabad,Delivered
+2023-06-26,OD200097,Smartphone 128GB,Wearables,"16,802",2,Lucknow,Cancelled
+2023-08-09,OD200098,Laptop 15.6in,Audio,"16,331",1,Jaipur,Cancelled
+2023-02-26,OD200099,Laptop 15.6in,Wearables,"21,460",1,Bangalore,Cancelled
+2023-05-26,OD200100,Bluetooth Earbuds,Computers,"22,393",1,Bangalore,Cancelled
+2023-12-14,OD200101,Bluetooth Earbuds,Wearables,"21,503",1,Pune,Delivered
+2023-12-14,OD200102,Laptop 15.6in,Mobiles,"4,194",2,Jaipur,In Transit
+2023-10-31,OD200103,Smartwatch,Computers,"9,902",2,Ahmedabad,Delivered
+2023-09-07,OD200104,Bluetooth Earbuds,Wearables,"₹9,747.77",2,Delhi,In Transit
+2023-09-27,OD200105,Bluetooth Earbuds,Computers,"8,767",2,Surat,In Transit
+2023-12-08,OD200106,Bluetooth Earbuds,Mobiles,"₹8,023.17",1,Hyderabad,Delivered
+2023-06-07,OD200107,Bluetooth Earbuds,Mobiles,"9,632",1,Indore,Delivered
+2023-01-24,OD200108,Smartphone 128GB,Wearables,"Rs. 17,688",2,Lucknow,Delivered
+2023-04-23,OD200109,Laptop 15.6in,Computers,"₹18,955.27",2,Ahmedabad,Cancelled
+2023-07-22,OD200110,Smartphone 128GB,Audio,"14,987",2,Delhi,Delivered
+2023-11-03,OD200111,Power Bank 20000mAh,Mobiles,"11,592",1,Jaipur,Cancelled
+2023-01-29,OD200112,Power Bank 20000mAh,Audio,"Rs. 25,204",2,Ahmedabad,In Transit
+2023-01-04,OD200113,Power Bank 20000mAh,Wearables,"₹14,267.47",2,Mumbai,Delivered
+2023-04-15,OD200114,Smartphone 128GB,Mobiles,"₹22,496.58",2,Ahmedabad,Cancelled
+2023-06-04,OD200115,Laptop 15.6in,Audio,"Rs. 10,445",1,Bangalore,Cancelled
+2023-04-19,OD200116,Power Bank 20000mAh,Mobiles,"₹18,309.70",1,Jaipur,Cancelled
+2023-03-12,OD200117,Bluetooth Earbuds,Audio,"25,737",1,Kolkata,Delivered
+2023-05-11,OD200118,Power Bank 20000mAh,Computers,Rs. 999,1,Ahmedabad,In Transit
+2023-05-29,OD200119,Smartwatch,Computers,"9,759",1,Lucknow,Delivered
+2023-06-17,OD200120,Bluetooth Earbuds,Wearables,"19,750",1,Mumbai,Cancelled
+2023-03-03,OD200121,Bluetooth Earbuds,Mobiles,"24,703",1,Jaipur,In Transit
+2023-01-04,OD200122,Bluetooth Earbuds,Audio,"₹16,624.91",1,Ahmedabad,In Transit
+2023-09-12,OD200123,Power Bank 20000mAh,Wearables,"Rs. 15,397",2,Surat,In Transit
+2023-08-09,OD200124,Bluetooth Earbuds,Computers,"Rs. 27,885",2,Chennai,In Transit
+2023-03-31,OD200125,Smartwatch,Computers,"25,192",1,Indore,Cancelled
+2023-03-08,OD200126,Smartphone 128GB,Wearables,"8,051",1,Mumbai,Cancelled
+2023-07-14,OD200127,Smartwatch,Mobiles,"15,931",2,Kolkata,In Transit
+2023-09-30,OD200128,Laptop 15.6in,Audio,"Rs. 17,881",1,Chennai,In Transit
+2023-12-27,OD200129,Bluetooth Earbuds,Computers,"28,749",1,Mumbai,In Transit
+2023-04-28,OD200130,Smartwatch,Wearables,"21,929",1,Indore,In Transit
+2023-09-14,OD200131,Power Bank 20000mAh,Computers,"14,171",2,Hyderabad,Cancelled
+2023-10-14,OD200132,Laptop 15.6in,Computers,"16,761",2,Lucknow,In Transit
+2023-12-09,OD200133,Smartwatch,Audio,999,2,Delhi,In Transit
+2023-07-01,OD200134,Bluetooth Earbuds,Mobiles,"Rs. 22,749",2,Mumbai,Delivered
+2023-02-06,OD200135,Power Bank 20000mAh,Mobiles,"20,166",2,Kolkata,Cancelled
+2023-07-23,OD200136,Bluetooth Earbuds,Audio,"24,697",1,Pune,In Transit
+2023-01-22,OD200137,Laptop 15.6in,Wearables,"Rs. 13,848",2,Indore,In Transit
+2023-08-12,OD200138,Smartwatch,Wearables,"16,024",1,Delhi,Delivered
+2023-01-10,OD200139,Bluetooth Earbuds,Mobiles,"11,149",1,Jaipur,In Transit
+2023-08-24,OD200140,Laptop 15.6in,Computers,"Rs. 5,816",2,Mumbai,In Transit
+2023-02-09,OD200141,Power Bank 20000mAh,Computers,"10,182",2,Delhi,In Transit
+2023-06-10,OD200142,Smartwatch,Wearables,999,1,Ahmedabad,Delivered
+2023-10-22,OD200143,Smartwatch,Audio,"22,317",1,Mumbai,Cancelled
+2023-08-08,OD200144,Laptop 15.6in,Computers,999,1,Chennai,Delivered
+2023-10-21,OD200145,Smartwatch,Wearables,"₹31,257.14",2,Kolkata,Cancelled
+2023-07-27,OD200146,Power Bank 20000mAh,Audio,999,2,Bangalore,Delivered
+2023-12-30,OD200147,Power Bank 20000mAh,Mobiles,"26,999",2,Bangalore,Delivered
+2023-11-24,OD200148,Smartwatch,Audio,"Rs. 7,736",2,Surat,In Transit
+2023-08-02,OD200149,Bluetooth Earbuds,Mobiles,"19,488",2,Indore,Cancelled
+2023-05-29,OD200150,Bluetooth Earbuds,Wearables,"₹8,980.43",1,Surat,Cancelled
+2023-02-28,OD200151,Power Bank 20000mAh,Audio,"28,390",2,Kolkata,Cancelled
+2023-07-27,OD200152,Bluetooth Earbuds,Wearables,"₹15,349.62",1,Pune,Cancelled
+2023-01-11,OD200153,Laptop 15.6in,Mobiles,"23,589",1,Kolkata,In Transit
+2023-06-16,OD200154,Smartphone 128GB,Computers,"15,608",1,Ahmedabad,In Transit
+2023-03-29,OD200155,Smartwatch,Computers,"17,824",2,Kolkata,Delivered
+2023-11-13,OD200156,Laptop 15.6in,Mobiles,"19,929",2,Kolkata,Delivered
+2023-08-24,OD200157,Power Bank 20000mAh,Computers,"10,770",2,Delhi,In Transit
+2023-12-20,OD200158,Smartphone 128GB,Computers,"Rs. 4,758",1,Surat,Delivered
+2023-07-05,OD200159,Power Bank 20000mAh,Audio,"₹4,587.17",1,Surat,In Transit
+2023-02-15,OD200160,Smartphone 128GB,Audio,"Rs. 15,407",1,Jaipur,Cancelled
+2023-08-12,OD200161,Laptop 15.6in,Computers,"Rs. 11,091",1,Bangalore,Delivered
+2023-02-24,OD200162,Smartphone 128GB,Audio,₹999.00,1,Surat,In Transit
+2023-05-05,OD200163,Bluetooth Earbuds,Mobiles,"Rs. 19,104",1,Pune,Cancelled
+2023-08-12,OD200164,Laptop 15.6in,Audio,"Rs. 5,252",2,Delhi,Cancelled
+2023-10-29,OD200165,Smartwatch,Audio,"₹5,717.40",2,Bangalore,Cancelled
+2023-07-25,OD200166,Power Bank 20000mAh,Audio,"₹14,666.99",2,Jaipur,In Transit
+2023-09-26,OD200167,Bluetooth Earbuds,Wearables,"7,799",2,Kolkata,In Transit
+2023-02-10,OD200168,Smartwatch,Mobiles,"15,980",1,Jaipur,In Transit
+2023-07-22,OD200169,Smartphone 128GB,Computers,"Rs. 30,788",1,Bangalore,Cancelled
+2023-06-08,OD200170,Bluetooth Earbuds,Computers,"₹11,967.54",2,Indore,Cancelled
+2023-06-23,OD200171,Smartwatch,Wearables,"Rs. 6,523",1,Hyderabad,Cancelled
+2023-04-24,OD200172,Laptop 15.6in,Audio,"16,452",2,Mumbai,In Transit
+2023-06-20,OD200173,Smartphone 128GB,Mobiles,"8,798",2,Mumbai,In Transit
+2023-03-28,OD200174,Smartwatch,Mobiles,"Rs. 15,190",2,Chennai,Delivered
+2023-02-09,OD200175,Smartphone 128GB,Computers,"17,525",1,Ahmedabad,Cancelled
+2023-09-19,OD200176,Smartwatch,Wearables,"14,718",2,Surat,In Transit
+2023-11-21,OD200177,Power Bank 20000mAh,Wearables,"15,452",2,Indore,Delivered
+2023-02-28,OD200178,Laptop 15.6in,Wearables,"₹16,536.72",2,Jaipur,Delivered
+2023-09-29,OD200179,Bluetooth Earbuds,Wearables,"₹27,776.90",1,Kolkata,Cancelled
+2023-09-19,OD200180,Smartwatch,Mobiles,"Rs. 12,977",1,Jaipur,Cancelled
+2023-04-10,OD200181,Smartphone 128GB,Audio,"₹16,019.48",2,Kolkata,In Transit
+2023-06-28,OD200182,Laptop 15.6in,Computers,"Rs. 21,935",1,Hyderabad,Delivered
+2023-06-29,OD200183,Bluetooth Earbuds,Mobiles,"18,768",1,Hyderabad,Cancelled
+2023-11-27,OD200184,Smartphone 128GB,Wearables,"Rs. 12,134",1,Ahmedabad,Cancelled
+2023-03-17,OD200185,Laptop 15.6in,Wearables,"₹22,214.91",1,Pune,Delivered
+2023-05-01,OD200186,Smartphone 128GB,Computers,"8,030",1,Bangalore,Cancelled
+2023-02-22,OD200187,Laptop 15.6in,Audio,"Rs. 13,186",1,Chennai,Delivered
+2023-03-16,OD200188,Bluetooth Earbuds,Audio,"8,831",1,Hyderabad,Delivered
+2023-05-12,OD200189,Bluetooth Earbuds,Audio,"₹19,609.40",1,Indore,Cancelled
+2023-04-12,OD200190,Smartphone 128GB,Wearables,"₹24,516.80",1,Delhi,Delivered
+2023-03-30,OD200191,Laptop 15.6in,Mobiles,"16,787",1,Mumbai,Delivered
+2023-11-05,OD200192,Smartwatch,Mobiles,"₹15,602.13",2,Surat,In Transit
+2023-03-20,OD200193,Bluetooth Earbuds,Audio,"8,000",2,Kolkata,Delivered
+2023-12-02,OD200194,Smartwatch,Computers,"9,380",1,Lucknow,Cancelled
+2023-02-08,OD200195,Smartwatch,Audio,"5,454",2,Mumbai,Delivered
+2023-04-01,OD200196,Power Bank 20000mAh,Audio,999,2,Hyderabad,Delivered
+2023-11-18,OD200197,Smartphone 128GB,Computers,"Rs. 11,872",1,Hyderabad,Cancelled
+2023-09-10,OD200198,Smartphone 128GB,Audio,"12,615",1,Delhi,Delivered
+2023-08-26,OD200199,Smartphone 128GB,Computers,"₹32,382.74",1,Delhi,Delivered

@@ -1,0 +1,201 @@
+purchase_date,order_number,sku_name,department,sale_price,unit_sold,ship_state
+2023/05/01,NYK700000,Eyeliner,Skincare,635,2,Gujarat
+2023/08/05,NYK700001,Face Serum,Skincare,559,1,Tamil Nadu
+2023/04/22,NYK700002,Eyeliner,Makeup,766,1,Delhi
+2023/03/15,NYK700003,Eyeliner,Makeup,Rs. 441,2,Karnataka
+2023/02/24,NYK700004,Perfume 50ml,Fragrance,Rs. 903,1,Maharashtra
+2023/03/31,NYK700005,Sunscreen SPF50,Skincare,799,2,Uttar Pradesh
+2023/04/20,NYK700006,Matte Lipstick,Makeup,₹661.66,1,Tamil Nadu
+2023/05/21,NYK700007,Matte Lipstick,Fragrance,696,1,Rajasthan
+2023/08/14,NYK700008,Perfume 50ml,Skincare,"Rs. 1,263",1,Delhi
+2023/07/29,NYK700009,Matte Lipstick,Skincare,Rs. 933,1,Rajasthan
+2023/05/11,NYK700010,Matte Lipstick,Fragrance,"1,310",2,Delhi
+2023/10/29,NYK700011,Sunscreen SPF50,Makeup,810,1,Telangana
+2023/01/29,NYK700012,Face Serum,Fragrance,208,2,Uttar Pradesh
+2023/09/09,NYK700013,Eyeliner,Makeup,Rs. 571,1,Rajasthan
+2023/10/01,NYK700014,Sunscreen SPF50,Makeup,₹139.94,1,Uttar Pradesh
+2023/07/11,NYK700015,Perfume 50ml,Fragrance,₹808.49,1,Maharashtra
+2023/12/25,NYK700016,Perfume 50ml,Makeup,874,1,Uttar Pradesh
+2023/02/27,NYK700017,Matte Lipstick,Fragrance,384,2,Rajasthan
+2023/06/12,NYK700018,Matte Lipstick,Skincare,453,2,Telangana
+2023/10/07,NYK700019,Sunscreen SPF50,Skincare,Rs. 695,2,Gujarat
+2023/08/05,NYK700020,Perfume 50ml,Makeup,Rs. 291,2,Rajasthan
+2023/09/01,NYK700021,Perfume 50ml,Skincare,₹268.05,1,Maharashtra
+2023/12/16,NYK700022,Eyeliner,Fragrance,"₹1,021.59",2,Delhi
+2023/05/07,NYK700023,Sunscreen SPF50,Fragrance,684,2,Rajasthan
+2023/05/23,NYK700024,Eyeliner,Fragrance,483,1,Karnataka
+2023/03/16,NYK700025,Sunscreen SPF50,Skincare,Rs. 142,1,Maharashtra
+2023/07/05,NYK700026,Face Serum,Skincare,₹905.71,1,Tamil Nadu
+2023/09/01,NYK700027,Perfume 50ml,Skincare,Rs. 445,1,Telangana
+2023/07/08,NYK700028,Matte Lipstick,Fragrance,"1,208",2,Telangana
+2023/06/07,NYK700029,Perfume 50ml,Makeup,908,2,Uttar Pradesh
+2023/01/11,NYK700030,Face Serum,Fragrance,408,1,Gujarat
+2023/11/27,NYK700031,Sunscreen SPF50,Makeup,₹435.36,1,Delhi
+2023/11/07,NYK700032,Face Serum,Makeup,"1,167",1,Rajasthan
+2023/01/18,NYK700033,Perfume 50ml,Fragrance,Rs. 625,2,Uttar Pradesh
+2023/12/06,NYK700034,Eyeliner,Fragrance,₹496.01,2,Maharashtra
+2023/01/28,NYK700035,Sunscreen SPF50,Skincare,₹658.32,1,West Bengal
+2023/12/20,NYK700036,Eyeliner,Makeup,495,1,Uttar Pradesh
+2023/12/10,NYK700037,Face Serum,Makeup,₹722.31,2,Maharashtra
+2023/05/03,NYK700038,Matte Lipstick,Skincare,₹627.25,1,Gujarat
+2023/05/10,NYK700039,Sunscreen SPF50,Makeup,₹912.65,1,Maharashtra
+2023/10/10,NYK700040,Perfume 50ml,Makeup,₹533.43,2,Maharashtra
+2023/07/16,NYK700041,Eyeliner,Skincare,₹384.56,1,West Bengal
+2023/06/08,NYK700042,Face Serum,Fragrance,Rs. 545,2,Karnataka
+2023/11/24,NYK700043,Sunscreen SPF50,Skincare,₹543.47,1,West Bengal
+2023/12/25,NYK700044,Matte Lipstick,Skincare,Rs. 627,1,Maharashtra
+2023/07/05,NYK700045,Sunscreen SPF50,Fragrance,840,2,Rajasthan
+2023/12/17,NYK700046,Matte Lipstick,Fragrance,Rs. 824,2,Maharashtra
+2023/03/04,NYK700047,Face Serum,Skincare,"1,010",1,West Bengal
+2023/10/01,NYK700048,Eyeliner,Fragrance,407,2,Tamil Nadu
+2023/05/02,NYK700049,Sunscreen SPF50,Skincare,767,1,Delhi
+2023/08/15,NYK700050,Sunscreen SPF50,Fragrance,₹868.20,1,Delhi
+2023/07/18,NYK700051,Eyeliner,Skincare,Rs. 448,2,Delhi
+2023/01/05,NYK700052,Sunscreen SPF50,Skincare,588,1,Rajasthan
+2023/07/21,NYK700053,Sunscreen SPF50,Makeup,125,1,Karnataka
+2023/05/11,NYK700054,Perfume 50ml,Makeup,Rs. 922,2,Tamil Nadu
+2023/06/04,NYK700055,Sunscreen SPF50,Makeup,₹585.35,2,Karnataka
+2023/02/16,NYK700056,Perfume 50ml,Makeup,Rs. 892,1,Karnataka
+2023/05/01,NYK700057,Sunscreen SPF50,Fragrance,712,2,Tamil Nadu
+2023/06/02,NYK700058,Eyeliner,Fragrance,₹594.45,2,Delhi
+2023/04/18,NYK700059,Face Serum,Skincare,Rs. 172,2,Karnataka
+2023/03/24,NYK700060,Sunscreen SPF50,Fragrance,226,2,Tamil Nadu
+2023/08/13,NYK700061,Eyeliner,Makeup,Rs. 99,1,West Bengal
+2023/11/20,NYK700062,Face Serum,Skincare,₹481.22,1,Karnataka
+2023/06/12,NYK700063,Perfume 50ml,Fragrance,"1,333",1,Maharashtra
+2023/11/26,NYK700064,Eyeliner,Makeup,264,2,Uttar Pradesh
+2023/07/28,NYK700065,Matte Lipstick,Makeup,99,2,Maharashtra
+2023/01/18,NYK700066,Face Serum,Skincare,Rs. 939,2,Karnataka
+2023/05/21,NYK700067,Face Serum,Makeup,"Rs. 1,359",2,Maharashtra
+2023/02/11,NYK700068,Matte Lipstick,Makeup,739,2,Maharashtra
+2023/09/09,NYK700069,Face Serum,Makeup,Rs. 737,2,Tamil Nadu
+2023/08/30,NYK700070,Face Serum,Fragrance,557,2,West Bengal
+2023/07/31,NYK700071,Matte Lipstick,Skincare,112,1,Delhi
+2023/06/20,NYK700072,Eyeliner,Skincare,215,1,Maharashtra
+2023/08/05,NYK700073,Sunscreen SPF50,Fragrance,₹554.97,2,Karnataka
+2023/02/21,NYK700074,Face Serum,Skincare,497,2,West Bengal
+2023/03/24,NYK700075,Eyeliner,Fragrance,₹615.45,2,Maharashtra
+2023/12/24,NYK700076,Eyeliner,Fragrance,₹898.80,1,Tamil Nadu
+2023/05/14,NYK700077,Matte Lipstick,Fragrance,₹475.45,1,West Bengal
+2023/09/17,NYK700078,Eyeliner,Fragrance,905,2,Delhi
+2023/02/03,NYK700079,Matte Lipstick,Skincare,477,2,Maharashtra
+2023/06/30,NYK700080,Eyeliner,Skincare,961,1,Telangana
+2023/08/04,NYK700081,Sunscreen SPF50,Fragrance,Rs. 676,1,Telangana
+2023/11/05,NYK700082,Perfume 50ml,Fragrance,519,1,Uttar Pradesh
+2023/10/08,NYK700083,Eyeliner,Skincare,₹670.79,1,Uttar Pradesh
+2023/06/17,NYK700084,Eyeliner,Fragrance,Rs. 562,2,Telangana
+2023/08/21,NYK700085,Eyeliner,Fragrance,₹683.94,1,Gujarat
+2023/12/22,NYK700086,Matte Lipstick,Fragrance,877,1,Rajasthan
+2023/01/15,NYK700087,Face Serum,Fragrance,624,2,Rajasthan
+2023/01/27,NYK700088,Matte Lipstick,Skincare,539,1,West Bengal
+2023/11/25,NYK700089,Sunscreen SPF50,Skincare,313,1,Delhi
+2023/11/25,NYK700090,Matte Lipstick,Makeup,824,1,Tamil Nadu
+2023/04/05,NYK700091,Face Serum,Makeup,₹754.48,2,Maharashtra
+2023/11/19,NYK700092,Sunscreen SPF50,Makeup,295,1,Maharashtra
+2023/08/16,NYK700093,Face Serum,Makeup,Rs. 901,2,Gujarat
+2023/11/25,NYK700094,Face Serum,Makeup,291,2,Rajasthan
+2023/03/11,NYK700095,Perfume 50ml,Makeup,Rs. 959,1,West Bengal
+2023/01/02,NYK700096,Sunscreen SPF50,Makeup,856,1,Delhi
+2023/07/25,NYK700097,Perfume 50ml,Fragrance,776,1,Gujarat
+2023/04/13,NYK700098,Perfume 50ml,Makeup,537,1,Maharashtra
+2023/11/18,NYK700099,Face Serum,Makeup,₹822.73,2,West Bengal
+2023/06/06,NYK700100,Perfume 50ml,Makeup,₹972.91,1,Telangana
+2023/06/10,NYK700101,Matte Lipstick,Skincare,828,1,Maharashtra
+2023/10/22,NYK700102,Perfume 50ml,Fragrance,449,1,Tamil Nadu
+2023/02/12,NYK700103,Perfume 50ml,Makeup,Rs. 730,2,Rajasthan
+2023/02/26,NYK700104,Face Serum,Fragrance,990,1,Uttar Pradesh
+2023/03/22,NYK700105,Eyeliner,Makeup,"Rs. 1,310",1,Delhi
+2023/05/08,NYK700106,Matte Lipstick,Skincare,₹588.44,2,Telangana
+2023/09/22,NYK700107,Face Serum,Fragrance,907,2,Rajasthan
+2023/11/29,NYK700108,Eyeliner,Fragrance,990,1,Karnataka
+2023/03/08,NYK700109,Matte Lipstick,Makeup,Rs. 406,1,Tamil Nadu
+2023/11/01,NYK700110,Sunscreen SPF50,Makeup,"₹1,184.62",1,Uttar Pradesh
+2023/12/18,NYK700111,Matte Lipstick,Skincare,₹330.44,1,West Bengal
+2023/07/30,NYK700112,Sunscreen SPF50,Skincare,893,1,Gujarat
+2023/06/13,NYK700113,Matte Lipstick,Makeup,Rs. 742,2,Delhi
+2023/08/20,NYK700114,Eyeliner,Skincare,667,2,Rajasthan
+2023/09/02,NYK700115,Sunscreen SPF50,Skincare,"1,414",1,Telangana
+2023/03/10,NYK700116,Perfume 50ml,Makeup,₹559.62,1,Karnataka
+2023/05/14,NYK700117,Matte Lipstick,Makeup,₹554.80,2,Maharashtra
+2023/03/30,NYK700118,Sunscreen SPF50,Makeup,"1,049",1,Rajasthan
+2023/12/18,NYK700119,Face Serum,Makeup,879,1,Karnataka
+2023/10/31,NYK700120,Matte Lipstick,Fragrance,"1,035",1,Telangana
+2023/06/17,NYK700121,Matte Lipstick,Fragrance,₹685.06,1,Rajasthan
+2023/05/25,NYK700122,Eyeliner,Skincare,₹745.08,1,West Bengal
+2023/04/12,NYK700123,Eyeliner,Skincare,"₹1,220.28",2,Rajasthan
+2023/02/13,NYK700124,Eyeliner,Skincare,399,1,Gujarat
+2023/08/01,NYK700125,Sunscreen SPF50,Makeup,₹619.14,1,Maharashtra
+2023/07/08,NYK700126,Perfume 50ml,Skincare,889,1,Maharashtra
+2023/04/04,NYK700127,Matte Lipstick,Fragrance,Rs. 591,2,Gujarat
+2023/07/21,NYK700128,Sunscreen SPF50,Makeup,Rs. 479,2,Uttar Pradesh
+2023/07/13,NYK700129,Matte Lipstick,Makeup,836,2,Tamil Nadu
+2023/10/20,NYK700130,Perfume 50ml,Skincare,"1,051",2,Karnataka
+2023/04/25,NYK700131,Eyeliner,Fragrance,608,1,Maharashtra
+2023/01/11,NYK700132,Sunscreen SPF50,Skincare,Rs. 599,2,Maharashtra
+2023/01/12,NYK700133,Perfume 50ml,Makeup,456,1,Gujarat
+2023/10/13,NYK700134,Face Serum,Skincare,Rs. 561,1,Tamil Nadu
+2023/11/28,NYK700135,Face Serum,Makeup,₹975.08,2,Uttar Pradesh
+2023/11/10,NYK700136,Matte Lipstick,Makeup,674,2,Tamil Nadu
+2023/11/17,NYK700137,Sunscreen SPF50,Fragrance,Rs. 409,2,West Bengal
+2023/04/28,NYK700138,Sunscreen SPF50,Fragrance,729,2,Maharashtra
+2023/02/15,NYK700139,Matte Lipstick,Skincare,965,2,Telangana
+2023/08/25,NYK700140,Matte Lipstick,Skincare,481,1,Uttar Pradesh
+2023/04/12,NYK700141,Perfume 50ml,Skincare,₹251.42,2,Rajasthan
+2023/05/15,NYK700142,Perfume 50ml,Fragrance,"₹1,307.25",2,Tamil Nadu
+2023/12/26,NYK700143,Eyeliner,Fragrance,₹236.44,2,Maharashtra
+2023/03/28,NYK700144,Matte Lipstick,Fragrance,542,1,Karnataka
+2023/01/26,NYK700145,Eyeliner,Fragrance,720,2,Rajasthan
+2023/07/25,NYK700146,Sunscreen SPF50,Fragrance,₹568.27,1,Uttar Pradesh
+2023/11/13,NYK700147,Face Serum,Skincare,628,2,Delhi
+2023/08/08,NYK700148,Face Serum,Makeup,823,2,Tamil Nadu
+2023/11/04,NYK700149,Eyeliner,Skincare,99,1,Delhi
+2023/05/14,NYK700150,Matte Lipstick,Skincare,270,2,West Bengal
+2023/03/18,NYK700151,Matte Lipstick,Skincare,663,1,Delhi
+2023/02/15,NYK700152,Face Serum,Fragrance,529,1,Karnataka
+2023/07/08,NYK700153,Face Serum,Fragrance,689,1,Rajasthan
+2023/03/29,NYK700154,Eyeliner,Fragrance,Rs. 718,2,Tamil Nadu
+2023/10/18,NYK700155,Eyeliner,Fragrance,Rs. 99,2,West Bengal
+2023/03/02,NYK700156,Sunscreen SPF50,Fragrance,"1,032",2,Telangana
+2023/01/08,NYK700157,Face Serum,Skincare,Rs. 501,1,Uttar Pradesh
+2023/09/27,NYK700158,Matte Lipstick,Makeup,₹390.35,2,Rajasthan
+2023/08/11,NYK700159,Sunscreen SPF50,Fragrance,Rs. 713,1,Maharashtra
+2023/08/21,NYK700160,Eyeliner,Makeup,682,2,Maharashtra
+2023/12/11,NYK700161,Eyeliner,Fragrance,"Rs. 1,009",1,Tamil Nadu
+2023/09/11,NYK700162,Sunscreen SPF50,Makeup,732,1,Gujarat
+2023/03/02,NYK700163,Perfume 50ml,Skincare,₹997.43,1,Tamil Nadu
+2023/04/25,NYK700164,Face Serum,Fragrance,369,2,Telangana
+2023/04/15,NYK700165,Sunscreen SPF50,Skincare,693,1,Maharashtra
+2023/04/08,NYK700166,Matte Lipstick,Fragrance,316,1,Maharashtra
+2023/05/17,NYK700167,Sunscreen SPF50,Makeup,₹679.30,1,Telangana
+2023/05/28,NYK700168,Perfume 50ml,Skincare,Rs. 616,1,Gujarat
+2023/09/11,NYK700169,Face Serum,Fragrance,₹602.81,1,Uttar Pradesh
+2023/07/15,NYK700170,Eyeliner,Skincare,605,1,Maharashtra
+2023/03/08,NYK700171,Eyeliner,Skincare,871,2,Maharashtra
+2023/08/09,NYK700172,Eyeliner,Makeup,168,2,Karnataka
+2023/04/16,NYK700173,Eyeliner,Skincare,380,1,Maharashtra
+2023/11/04,NYK700174,Sunscreen SPF50,Fragrance,638,2,Uttar Pradesh
+2023/04/21,NYK700175,Perfume 50ml,Fragrance,(296),2,Gujarat
+2023/05/25,NYK700176,Perfume 50ml,Skincare,Rs. 664,1,Maharashtra
+2023/12/13,NYK700177,Eyeliner,Skincare,Rs. 635,1,Maharashtra
+2023/04/07,NYK700178,Matte Lipstick,Fragrance,(229),1,Karnataka
+2023/08/03,NYK700179,Eyeliner,Skincare,214,2,West Bengal
+2023/04/03,NYK700180,Sunscreen SPF50,Makeup,99,1,Rajasthan
+2023/07/29,NYK700181,Perfume 50ml,Makeup,Rs. 284,2,Gujarat
+2023/03/16,NYK700182,Face Serum,Skincare,Rs. 654,1,West Bengal
+2023/01/15,NYK700183,Eyeliner,Fragrance,(697),2,Rajasthan
+2023/05/29,NYK700184,Eyeliner,Makeup,711,1,Delhi
+2023/05/15,NYK700185,Matte Lipstick,Skincare,₹416.62,1,Delhi
+2023/05/01,NYK700186,Matte Lipstick,Skincare,₹644.51,2,Rajasthan
+2023/11/13,NYK700187,Perfume 50ml,Skincare,769,2,Maharashtra
+2023/08/19,NYK700188,Sunscreen SPF50,Makeup,270,2,Gujarat
+2023/05/08,NYK700189,Eyeliner,Fragrance,687,2,Delhi
+2023/07/09,NYK700190,Face Serum,Makeup,847,2,Maharashtra
+2023/10/26,NYK700191,Face Serum,Fragrance,Rs. 503,2,West Bengal
+2023/12/17,NYK700192,Eyeliner,Fragrance,Rs. 969,1,Uttar Pradesh
+2023/11/28,NYK700193,Perfume 50ml,Skincare,510,2,Maharashtra
+2023/08/23,NYK700194,Perfume 50ml,Fragrance,392,1,West Bengal
+2023/02/13,NYK700195,Matte Lipstick,Fragrance,817,1,Karnataka
+2023/01/06,NYK700196,Sunscreen SPF50,Fragrance,"₹1,259.99",2,Maharashtra
+2023/08/29,NYK700197,Eyeliner,Skincare,676,1,Delhi
+2023/03/10,NYK700198,Eyeliner,Makeup,840,2,Gujarat
+2023/06/15,NYK700199,Matte Lipstick,Skincare,₹497.38,2,Maharashtra

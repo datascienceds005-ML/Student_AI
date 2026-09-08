@@ -1,0 +1,201 @@
+Date,Order ID,Style,Category,Amount,Qty,ship-state,Status
+04-22-23,402-2061446-3805274,SET268,Top,₹99.00,1,Maharashtra,Shipped - Delivered to Buyer
+09-16-23,402-8292657-5629871,JNE3405,Kurta,494,1,Maharashtra,Shipped
+08-22-23,402-8064924-6029008,JNE3405,Set,"Rs. 1,166",1,Tamil Nadu,Pending
+07-11-23,402-9124053-2290526,J0230,Kurta,"Rs. 1,236",2,Uttar Pradesh,Pending
+01-31-23,402-7058670-5222820,SET268,Kurta,"1,482",2,Tamil Nadu,Pending
+11-13-23,402-5137094-9318184,JNE3405,Kurta,787,2,Gujarat,Cancelled
+11-23-23,402-4280754-8681643,JNE3797,Set,"1,131",2,Delhi,Pending
+12-08-23,402-2794698-3273137,JNE3797,Set,"1,204",1,Gujarat,Pending
+11-12-23,402-6111313-1113537,JNE3797,Set,Rs. 601,2,Maharashtra,Pending
+09-05-23,402-7638609-6573679,JNE3797,Top,₹955.14,1,Uttar Pradesh,Shipped - Delivered to Buyer
+12-04-23,402-7373495-6528792,J0230,Western Dress,"₹1,063.48",2,Uttar Pradesh,Shipped
+09-07-23,402-8385715-6615941,SET268,Kurta,436,1,Uttar Pradesh,Shipped - Delivered to Buyer
+01-09-23,402-8224541-3283789,JNE3797,Western Dress,"1,457",1,Delhi,Shipped
+01-04-23,402-6040467-6379868,JNE3797,Kurta,784,2,Gujarat,Shipped - Delivered to Buyer
+09-30-23,402-4369728-9036449,JNE3405,Kurta,₹834.81,1,Telangana,Shipped
+10-10-23,402-6271120-3980258,J0230,Kurta,421,1,Rajasthan,Pending
+07-30-23,402-7681351-6354241,JNE3405,Set,488,2,Delhi,Pending
+01-07-23,402-5889688-9237735,JNE3405,Top,₹99.00,1,West Bengal,Pending
+01-09-23,402-5067204-6467463,JNE3405,Set,Rs. 822,2,Rajasthan,Shipped - Delivered to Buyer
+09-29-23,402-7309161-5702656,JNE3797,Kurta,"Rs. 1,802",2,Tamil Nadu,Pending
+05-21-23,402-7592357-7123944,SET268,Western Dress,393,2,West Bengal,Cancelled
+10-02-23,402-2910720-4352088,J0230,Kurta,"₹1,990.48",1,Maharashtra,Shipped
+05-27-23,402-4018677-1451577,JNE3797,Kurta,"1,366",1,Karnataka,Shipped - Delivered to Buyer
+01-09-23,402-8744735-4517316,J0230,Top,611,1,Karnataka,Pending
+09-15-23,402-8356053-5887726,JNE3797,Kurta,811,2,Telangana,Pending
+12-24-23,402-2160289-7864256,SET268,Set,746,1,Maharashtra,Shipped
+12-12-23,402-9376917-3335038,SET268,Top,"₹1,482.47",2,West Bengal,Pending
+08-09-23,402-6080688-5060441,J0230,Top,"1,007",2,Uttar Pradesh,Pending
+04-02-23,402-5239295-3586094,JNE3405,Top,"1,273",1,Gujarat,Shipped
+02-24-23,402-8098909-7324856,JNE3797,Kurta,(943),2,Karnataka,Shipped
+02-19-23,402-2240929-8534089,J0230,Top,755,1,Maharashtra,Cancelled
+09-26-23,402-9040224-7724393,JNE3405,Top,Rs. 931,1,Karnataka,Cancelled
+03-18-23,402-9965197-9499549,SET268,Set,637,1,Delhi,Shipped
+05-04-23,402-8017921-1616817,JNE3797,Western Dress,₹219.12,1,Gujarat,Shipped - Delivered to Buyer
+04-09-23,402-7031903-2425760,SET268,Set,"Rs. 1,125",1,Maharashtra,Cancelled
+11-14-23,402-2834914-5164624,JNE3797,Set,₹199.53,2,Karnataka,Shipped
+09-27-23,402-6956059-3790696,JNE3405,Western Dress,₹692.47,2,Maharashtra,Pending
+05-10-23,402-1743175-7704473,JNE3797,Western Dress,624,2,Maharashtra,Shipped - Delivered to Buyer
+07-01-23,402-6563269-8221845,JNE3405,Top,"1,057",1,Maharashtra,Pending
+05-17-23,402-2777454-1176962,JNE3797,Set,"Rs. 1,426",1,Gujarat,Cancelled
+07-23-23,402-2654343-5340909,J0230,Kurta,"₹1,281.99",1,Tamil Nadu,Pending
+02-10-23,402-4724560-9567725,SET268,Set,"1,069",2,Telangana,Shipped - Delivered to Buyer
+07-11-23,402-9703982-4708297,JNE3797,Western Dress,548,1,Karnataka,Shipped
+07-27-23,402-8478923-7276684,JNE3797,Top,727,2,Uttar Pradesh,Shipped
+08-24-23,402-7562142-8768911,SET268,Top,Rs. 668,2,Karnataka,Shipped - Delivered to Buyer
+10-17-23,402-9396422-3529080,JNE3797,Top,612,1,Gujarat,Pending
+05-05-23,402-6787592-1412092,SET268,Kurta,639,1,Delhi,Pending
+12-23-23,402-9099554-2754047,JNE3405,Kurta,₹628.34,2,Karnataka,Shipped - Delivered to Buyer
+04-26-23,402-5956530-7978909,J0230,Western Dress,Rs. 611,1,Uttar Pradesh,Shipped
+06-03-23,402-2440404-2947320,J0230,Top,"₹1,180.75",2,West Bengal,Pending
+12-17-23,402-3376915-6843985,SET268,Set,378,1,West Bengal,Cancelled
+02-11-23,402-6232651-6755703,J0230,Top,Rs. 508,1,West Bengal,Shipped - Delivered to Buyer
+12-01-23,402-8639213-4470657,SET268,Set,Rs. 167,2,West Bengal,Cancelled
+11-29-23,402-9742856-9102153,J0230,Set,"Rs. 1,366",1,Gujarat,Cancelled
+01-17-23,402-6843509-8988681,JNE3797,Kurta,Rs. 481,2,West Bengal,Shipped
+02-17-23,402-2637842-8351204,JNE3797,Top,"₹1,064.31",1,Maharashtra,Shipped - Delivered to Buyer
+07-27-23,402-8590804-6350413,J0230,Western Dress,990,2,Maharashtra,Pending
+07-14-23,402-2126998-6037595,JNE3405,Top,"1,328",2,Rajasthan,Pending
+07-13-23,402-1749657-2930810,J0230,Top,Rs. 716,1,Telangana,Shipped - Delivered to Buyer
+10-10-23,402-1378915-6755892,JNE3797,Western Dress,421,2,Maharashtra,Shipped
+09-01-23,402-2834801-3757404,J0230,Western Dress,178,1,Maharashtra,Pending
+01-29-23,402-5092180-9656941,JNE3797,Top,₹99.00,1,Maharashtra,Pending
+11-23-23,402-3926839-3686631,JNE3405,Western Dress,₹864.54,1,Rajasthan,Pending
+01-05-23,402-6553084-8153291,JNE3405,Set,"1,110",2,Telangana,Shipped
+12-26-23,402-8751982-4889890,J0230,Kurta,989,2,Maharashtra,Pending
+03-29-23,402-7795568-4094587,JNE3797,Western Dress,188,1,Maharashtra,Pending
+02-12-23,402-4127053-8250013,JNE3405,Set,"1,216",1,Telangana,Cancelled
+09-13-23,402-7636771-1489765,SET268,Kurta,₹520.71,2,Telangana,Shipped
+08-11-23,402-4310554-8542617,J0230,Western Dress,437,1,Maharashtra,Pending
+11-27-23,402-8206700-7523581,SET268,Kurta,Rs. 512,1,Tamil Nadu,Shipped
+06-19-23,402-1074659-4603680,J0230,Top,Rs. 831,2,Karnataka,Shipped
+10-17-23,402-4452490-5669851,JNE3797,Western Dress,₹206.12,1,Delhi,Pending
+02-18-23,402-2049645-2707116,JNE3797,Set,₹785.19,2,West Bengal,Pending
+09-28-23,402-4136665-7136988,SET268,Set,₹971.78,1,Rajasthan,Shipped
+01-22-23,402-6469119-4306357,JNE3797,Kurta,"1,243",2,Uttar Pradesh,Shipped
+04-28-23,402-8676422-2911847,JNE3797,Set,870,1,Tamil Nadu,Shipped
+04-19-23,402-5401559-9212178,JNE3797,Set,264,1,Karnataka,Cancelled
+12-21-23,402-9853588-6258048,SET268,Western Dress,860,2,Delhi,Shipped - Delivered to Buyer
+10-18-23,402-7520284-7585795,JNE3797,Kurta,(376),1,Maharashtra,Pending
+09-01-23,402-2916496-6837206,JNE3405,Set,353,2,Tamil Nadu,Cancelled
+05-19-23,402-6905327-8681625,J0230,Top,255,1,Tamil Nadu,Cancelled
+01-24-23,402-3894531-5990296,JNE3405,Western Dress,(99),2,Gujarat,Shipped
+02-08-23,402-2421902-3247270,SET268,Set,573,2,Rajasthan,Shipped - Delivered to Buyer
+12-17-23,402-6254384-2977390,SET268,Set,"Rs. 1,252",2,Uttar Pradesh,Pending
+05-24-23,402-5002586-6123426,JNE3797,Set,"₹1,702.59",2,Rajasthan,Cancelled
+10-06-23,402-2962077-4070977,JNE3405,Western Dress,571,1,Maharashtra,Pending
+10-16-23,402-7263036-3371602,SET268,Western Dress,"1,234",1,West Bengal,Cancelled
+12-03-23,402-9570219-7517332,J0230,Kurta,₹642.17,2,Karnataka,Pending
+01-17-23,402-8016887-3313029,SET268,Western Dress,140,2,Maharashtra,Shipped
+04-02-23,402-7437584-8097413,JNE3405,Set,"1,080",2,Gujarat,Shipped
+06-11-23,402-4116429-9164971,J0230,Set,894,1,Maharashtra,Shipped - Delivered to Buyer
+01-09-23,402-3906397-3799538,J0230,Top,"1,527",1,Telangana,Shipped
+04-17-23,402-9214830-5845843,JNE3797,Western Dress,186,1,Karnataka,Cancelled
+10-28-23,402-3353785-4138993,J0230,Set,"₹1,918.41",1,West Bengal,Cancelled
+03-15-23,402-6277776-8566540,JNE3797,Top,"Rs. 1,437",2,Maharashtra,Cancelled
+12-31-23,402-1899447-7023677,JNE3797,Kurta,Rs. 793,2,Telangana,Cancelled
+07-23-23,402-1160783-9130388,SET268,Kurta,681,2,Telangana,Shipped
+02-09-23,402-3290672-4273712,SET268,Kurta,514,1,Karnataka,Shipped
+06-03-23,402-7441514-9479842,JNE3797,Set,844,1,Telangana,Shipped - Delivered to Buyer
+03-25-23,402-9304216-7864135,JNE3405,Set,726,1,Maharashtra,Pending
+10-16-23,402-9249791-7973121,JNE3797,Kurta,"1,006",2,Uttar Pradesh,Shipped - Delivered to Buyer
+05-04-23,402-8446596-9199017,JNE3405,Top,₹682.25,2,Rajasthan,Pending
+10-18-23,402-3806047-2386982,J0230,Kurta,"Rs. 1,366",1,Karnataka,Shipped
+07-19-23,402-1517756-4699871,J0230,Western Dress,850,2,Delhi,Cancelled
+12-13-23,402-5900455-1548532,J0230,Set,697,1,Maharashtra,Shipped - Delivered to Buyer
+10-04-23,402-5611266-4772246,JNE3797,Set,"1,210",1,Maharashtra,Shipped - Delivered to Buyer
+06-19-23,402-5843084-3822078,JNE3405,Western Dress,₹150.99,2,West Bengal,Shipped
+07-16-23,402-8672579-9309978,JNE3797,Set,Rs. 936,1,Tamil Nadu,Pending
+03-13-23,402-9569902-2899365,J0230,Western Dress,₹810.23,2,Rajasthan,Shipped - Delivered to Buyer
+12-19-23,402-2916069-5494430,SET268,Kurta,236,1,Uttar Pradesh,Pending
+02-10-23,402-7154919-1698108,J0230,Kurta,117,2,Maharashtra,Shipped - Delivered to Buyer
+09-14-23,402-8404902-4666525,J0230,Set,"₹1,204.14",2,Uttar Pradesh,Cancelled
+06-27-23,402-8132912-2718262,SET268,Set,"Rs. 1,185",2,Maharashtra,Shipped
+01-28-23,402-5152891-5994727,JNE3405,Kurta,Rs. 869,1,Delhi,Pending
+02-20-23,402-1540736-8545256,J0230,Western Dress,"Rs. 1,487",1,Maharashtra,Shipped
+08-12-23,402-5409307-6848151,JNE3405,Kurta,₹976.39,2,Maharashtra,Shipped
+04-29-23,402-2459332-8366370,SET268,Western Dress,"Rs. 1,300",2,Delhi,Pending
+02-08-23,402-2969410-4975295,SET268,Top,₹968.13,1,West Bengal,Pending
+06-24-23,402-4521171-6882609,SET268,Kurta,690,1,Gujarat,Shipped - Delivered to Buyer
+11-06-23,402-8183451-3784709,JNE3797,Western Dress,377,1,West Bengal,Pending
+11-11-23,402-3335975-4466502,JNE3405,Western Dress,Rs. 559,2,Delhi,Shipped
+11-01-23,402-4471922-1995859,JNE3797,Western Dress,697,1,Rajasthan,Shipped
+07-23-23,402-6885707-9930189,SET268,Set,"1,345",1,Tamil Nadu,Pending
+06-17-23,402-5715824-3824903,J0230,Set,"1,108",2,Gujarat,Pending
+01-16-23,402-6430006-5909595,JNE3797,Top,₹932.13,1,Karnataka,Shipped - Delivered to Buyer
+11-21-23,402-5854206-5485272,J0230,Top,"₹1,148.00",1,Telangana,Shipped - Delivered to Buyer
+05-20-23,402-9630451-2597613,JNE3797,Western Dress,"Rs. 1,011",1,Maharashtra,Shipped - Delivered to Buyer
+08-19-23,402-3274804-7905438,JNE3405,Set,905,2,Tamil Nadu,Shipped
+09-09-23,402-1994652-5652716,J0230,Western Dress,201,2,West Bengal,Pending
+04-27-23,402-3128830-3226183,JNE3797,Set,"Rs. 1,256",2,Delhi,Cancelled
+07-02-23,402-5188889-3453557,SET268,Set,617,2,Rajasthan,Pending
+10-11-23,402-6403886-5153279,SET268,Top,"1,235",2,Tamil Nadu,Pending
+07-12-23,402-7588425-9211754,JNE3405,Western Dress,"1,274",2,Uttar Pradesh,Shipped - Delivered to Buyer
+08-10-23,402-3385244-5508325,JNE3405,Western Dress,Rs. 532,2,Uttar Pradesh,Cancelled
+04-06-23,402-7949543-7294347,JNE3797,Set,"1,180",1,Karnataka,Pending
+12-15-23,402-8583162-2266952,SET268,Set,₹655.61,1,West Bengal,Cancelled
+10-27-23,402-2561871-7758714,J0230,Kurta,658,2,Delhi,Cancelled
+12-05-23,402-9650558-5667852,JNE3797,Top,₹902.99,1,Rajasthan,Pending
+07-14-23,402-7191986-8628527,JNE3797,Kurta,(914),1,Uttar Pradesh,Shipped - Delivered to Buyer
+02-13-23,402-9188027-6491002,SET268,Set,Rs. 815,2,Delhi,Shipped - Delivered to Buyer
+11-13-23,402-1041491-2562657,JNE3405,Western Dress,Rs. 266,1,Tamil Nadu,Pending
+06-01-23,402-8691502-7009980,J0230,Set,Rs. 751,1,Delhi,Cancelled
+05-07-23,402-2062512-9966154,JNE3405,Kurta,"Rs. 1,711",1,Delhi,Cancelled
+02-07-23,402-7672565-4654579,JNE3797,Top,99,1,Gujarat,Shipped - Delivered to Buyer
+02-12-23,402-8208215-4554277,JNE3797,Set,"1,148",1,Telangana,Shipped - Delivered to Buyer
+05-18-23,402-9299939-5505300,SET268,Western Dress,"₹1,222.85",2,Uttar Pradesh,Shipped - Delivered to Buyer
+03-20-23,402-6416778-5757902,JNE3405,Kurta,257,2,Telangana,Cancelled
+07-14-23,402-6666591-3191007,JNE3797,Set,Rs. 612,2,Tamil Nadu,Cancelled
+12-31-23,402-9142618-6766993,JNE3797,Western Dress,₹399.71,1,Rajasthan,Shipped - Delivered to Buyer
+11-21-23,402-1812172-1770794,JNE3405,Western Dress,"Rs. 1,542",2,Telangana,Shipped - Delivered to Buyer
+03-20-23,402-2670586-8710502,SET268,Set,"1,241",1,Maharashtra,Cancelled
+07-19-23,402-1273155-3084353,SET268,Kurta,"1,261",1,West Bengal,Shipped
+06-12-23,402-3650523-8403549,J0230,Western Dress,848,1,Tamil Nadu,Cancelled
+07-04-23,402-8659103-1011340,J0230,Top,"1,325",1,Karnataka,Pending
+02-24-23,402-8177281-4394336,J0230,Kurta,797,2,Maharashtra,Pending
+02-16-23,402-3213134-6064462,JNE3405,Western Dress,"1,344",2,Rajasthan,Cancelled
+01-03-23,402-3667199-5597283,J0230,Set,741,1,Gujarat,Pending
+06-07-23,402-2565985-7047102,J0230,Set,528,2,Telangana,Shipped
+08-16-23,402-5200835-2382787,JNE3405,Kurta,"₹1,524.38",1,Gujarat,Shipped
+07-04-23,402-7238503-3777050,J0230,Western Dress,792,2,Maharashtra,Shipped
+05-19-23,402-1868846-7649508,SET268,Western Dress,440,2,Telangana,Pending
+02-22-23,402-6125594-4928281,JNE3797,Kurta,436,1,Maharashtra,Shipped - Delivered to Buyer
+03-09-23,402-8201300-2530068,SET268,Kurta,₹437.37,2,Maharashtra,Shipped
+02-14-23,402-2596917-1018225,SET268,Kurta,"1,138",1,Delhi,Shipped
+04-06-23,402-4580613-8999489,JNE3797,Top,760,2,Delhi,Shipped - Delivered to Buyer
+08-09-23,402-2307594-3226333,SET268,Top,"1,719",1,Uttar Pradesh,Cancelled
+08-18-23,402-4794852-9714828,JNE3797,Top,"1,274",1,Gujarat,Shipped - Delivered to Buyer
+10-13-23,402-8466983-1155809,SET268,Set,903,2,Karnataka,Cancelled
+10-12-23,402-1135267-6764217,JNE3405,Top,"1,362",2,Delhi,Cancelled
+09-20-23,402-3023227-8085252,JNE3405,Top,Rs. 602,1,Rajasthan,Shipped - Delivered to Buyer
+07-28-23,402-3217531-9014480,J0230,Top,Rs. 99,2,Delhi,Shipped
+02-22-23,402-2188301-4841091,JNE3405,Western Dress,Rs. 404,2,Delhi,Cancelled
+01-14-23,402-7426846-2498726,JNE3797,Top,₹858.88,1,Tamil Nadu,Shipped - Delivered to Buyer
+02-15-23,402-2718442-2731434,J0230,Kurta,711,1,Telangana,Shipped
+07-01-23,402-6257165-7166661,SET268,Top,"Rs. 1,130",2,Gujarat,Cancelled
+10-11-23,402-6020671-3300647,JNE3405,Set,₹750.15,1,Tamil Nadu,Pending
+02-17-23,402-7420993-3233823,J0230,Set,"1,099",1,Tamil Nadu,Shipped
+11-02-23,402-3396676-2147756,JNE3405,Top,"1,400",1,Gujarat,Shipped - Delivered to Buyer
+11-03-23,402-9900451-1142182,J0230,Kurta,749,2,Maharashtra,Pending
+06-16-23,402-3753418-8383643,JNE3797,Kurta,"₹1,022.06",2,Delhi,Shipped - Delivered to Buyer
+07-17-23,402-6891952-4574477,JNE3797,Western Dress,Rs. 99,1,Karnataka,Cancelled
+01-07-23,402-3539636-7907345,SET268,Kurta,750,2,Maharashtra,Shipped
+05-30-23,402-8421969-4644760,J0230,Western Dress,Rs. 307,1,Tamil Nadu,Pending
+07-31-23,402-2454383-2685524,JNE3797,Western Dress,858,2,Maharashtra,Pending
+07-18-23,402-3349030-3066235,SET268,Kurta,894,1,Maharashtra,Pending
+02-13-23,402-7442986-6897789,J0230,Kurta,893,1,West Bengal,Cancelled
+10-14-23,402-8203947-6276495,SET268,Western Dress,Rs. 608,2,Delhi,Shipped
+05-05-23,402-3345961-5157165,JNE3797,Set,"Rs. 1,719",1,Delhi,Shipped
+10-20-23,402-5646746-2413458,SET268,Top,293,2,Maharashtra,Cancelled
+09-24-23,402-5163551-5780177,J0230,Set,₹268.34,2,Maharashtra,Shipped - Delivered to Buyer
+03-28-23,402-1450038-6060836,JNE3405,Kurta,"1,462",1,Karnataka,Pending
+12-17-23,402-4446807-9686388,JNE3797,Kurta,518,1,Karnataka,Shipped - Delivered to Buyer
+07-14-23,402-9548370-4164963,J0230,Western Dress,Rs. 422,2,Maharashtra,Cancelled
+03-28-23,402-7572491-5958372,J0230,Top,"1,721",1,Maharashtra,Shipped - Delivered to Buyer
+03-13-23,402-1915518-5015476,SET268,Kurta,"₹1,194.29",1,Gujarat,Shipped - Delivered to Buyer
+05-18-23,402-9302838-7474085,JNE3797,Top,Rs. 562,1,Uttar Pradesh,Cancelled
+06-04-23,402-2891524-5044680,JNE3405,Set,887,1,Tamil Nadu,Pending
+05-18-23,402-9381604-2191383,JNE3405,Top,"Rs. 1,578",1,Delhi,Shipped - Delivered to Buyer
+09-10-23,402-9863176-1202450,SET268,Set,"1,077",2,Maharashtra,Shipped
+03-16-23,402-7058222-6309530,JNE3797,Kurta,"1,314",2,Maharashtra,Shipped - Delivered to Buyer

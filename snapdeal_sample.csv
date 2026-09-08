@@ -1,0 +1,201 @@
+Invoice Date,Transaction Id,Item Name,Type,MRP,Order Qty,Courier Status
+01/12/2023,SD600000,Sunglasses,Bags,"₹1,049.00",2,Undelivered
+24/11/2023,SD600001,Wireless Mouse,Bags,"Rs. 1,540",2,Delivered
+01/01/2023,SD600002,Wall Clock,Home Decor,"1,350",2,Undelivered
+20/01/2023,SD600003,Backpack,Accessories,580,2,Delivered
+07/12/2023,SD600004,Backpack,Computer Peripherals,"1,018",2,Delivered
+19/07/2023,SD600005,Wall Clock,Bags,213,1,RTO
+17/05/2023,SD600006,Wall Clock,Computer Peripherals,684,2,Undelivered
+19/03/2023,SD600007,Sunglasses,Accessories,"₹1,025.62",1,Delivered
+25/12/2023,SD600008,Backpack,Computer Peripherals,659,1,Undelivered
+18/06/2023,SD600009,Wireless Mouse,Computer Peripherals,"Rs. 1,009",1,RTO
+20/07/2023,SD600010,Backpack,Home Decor,₹894.65,1,Undelivered
+22/10/2023,SD600011,Sunglasses,Accessories,"Rs. 1,115",2,RTO
+02/01/2023,SD600012,Wall Clock,Bags,730,1,RTO
+21/09/2023,SD600013,Backpack,Home Decor,524,2,Undelivered
+29/12/2023,SD600014,Wall Clock,Home Decor,"1,491",2,Undelivered
+09/09/2023,SD600015,Backpack,Bags,Rs. 702,1,Delivered
+02/09/2023,SD600016,Wireless Mouse,Accessories,"₹1,164.00",2,RTO
+12/08/2023,SD600017,Wireless Mouse,Computer Peripherals,"Rs. 1,474",1,Undelivered
+26/07/2023,SD600018,Backpack,Accessories,Rs. 965,1,RTO
+05/02/2023,SD600019,Backpack,Accessories,Rs. 557,2,Delivered
+04/10/2023,SD600020,Wall Clock,Computer Peripherals,Rs. 829,2,Undelivered
+26/04/2023,SD600021,Wall Clock,Computer Peripherals,"₹1,307.02",1,Undelivered
+02/01/2023,SD600022,Sunglasses,Computer Peripherals,982,2,RTO
+16/07/2023,SD600023,Sunglasses,Accessories,₹417.94,2,Undelivered
+19/12/2023,SD600024,Backpack,Bags,"₹1,138.66",2,Undelivered
+04/09/2023,SD600025,Wireless Mouse,Accessories,"Rs. 1,208",1,RTO
+04/03/2023,SD600026,Sunglasses,Bags,₹757.88,1,Delivered
+18/10/2023,SD600027,Sunglasses,Accessories,"1,144",2,Undelivered
+02/10/2023,SD600028,Wireless Mouse,Bags,998,2,Delivered
+03/07/2023,SD600029,Wall Clock,Computer Peripherals,Rs. 821,2,RTO
+20/06/2023,SD600030,Wall Clock,Accessories,383,2,RTO
+16/12/2023,SD600031,Wall Clock,Accessories,"1,331",2,Delivered
+05/06/2023,SD600032,Backpack,Home Decor,"Rs. 1,204",1,Undelivered
+25/07/2023,SD600033,Backpack,Bags,"1,134",2,Undelivered
+29/01/2023,SD600034,Wall Clock,Accessories,"₹1,517.81",1,RTO
+20/11/2023,SD600035,Wireless Mouse,Accessories,"₹1,278.08",2,RTO
+28/11/2023,SD600036,Wall Clock,Computer Peripherals,"Rs. 1,175",1,Undelivered
+16/02/2023,SD600037,Wall Clock,Bags,Rs. 149,2,Delivered
+07/07/2023,SD600038,Backpack,Bags,"Rs. 1,379",1,RTO
+01/10/2023,SD600039,Wireless Mouse,Accessories,Rs. 933,2,Undelivered
+24/06/2023,SD600040,Sunglasses,Bags,"1,025",1,Undelivered
+11/02/2023,SD600041,Wireless Mouse,Bags,"Rs. 1,028",1,Undelivered
+24/08/2023,SD600042,Backpack,Bags,"Rs. 1,210",1,Delivered
+29/05/2023,SD600043,Sunglasses,Bags,"Rs. 1,349",1,Undelivered
+28/11/2023,SD600044,Backpack,Bags,"₹1,153.70",1,RTO
+14/04/2023,SD600045,Wall Clock,Home Decor,"1,090",1,Delivered
+01/04/2023,SD600046,Sunglasses,Home Decor,₹992.61,2,RTO
+11/10/2023,SD600047,Backpack,Accessories,₹149.00,1,Delivered
+21/01/2023,SD600048,Wall Clock,Bags,₹784.96,2,Undelivered
+16/07/2023,SD600049,Backpack,Computer Peripherals,523,2,Undelivered
+05/12/2023,SD600050,Wireless Mouse,Accessories,"₹1,384.30",2,Delivered
+08/04/2023,SD600051,Backpack,Accessories,"Rs. 1,148",2,Undelivered
+03/06/2023,SD600052,Wireless Mouse,Bags,₹716.75,2,RTO
+23/12/2023,SD600053,Backpack,Bags,₹756.91,1,Undelivered
+19/07/2023,SD600054,Wall Clock,Home Decor,₹742.41,1,Delivered
+24/02/2023,SD600055,Wireless Mouse,Accessories,735,1,RTO
+19/11/2023,SD600056,Wireless Mouse,Accessories,322,2,RTO
+19/12/2023,SD600057,Wall Clock,Bags,₹235.49,1,Delivered
+03/07/2023,SD600058,Wireless Mouse,Accessories,₹911.62,1,RTO
+07/09/2023,SD600059,Backpack,Computer Peripherals,"1,330",1,RTO
+13/02/2023,SD600060,Backpack,Bags,₹684.92,1,Delivered
+20/11/2023,SD600061,Wireless Mouse,Accessories,"₹1,021.38",1,RTO
+13/08/2023,SD600062,Backpack,Home Decor,"₹1,193.70",2,Undelivered
+08/04/2023,SD600063,Wireless Mouse,Home Decor,Rs. 503,1,Undelivered
+13/03/2023,SD600064,Sunglasses,Computer Peripherals,Rs. 892,2,Delivered
+19/01/2023,SD600065,Backpack,Computer Peripherals,Rs. 633,2,RTO
+09/04/2023,SD600066,Wireless Mouse,Bags,"1,542",2,RTO
+13/01/2023,SD600067,Backpack,Computer Peripherals,"₹1,524.98",2,Undelivered
+31/10/2023,SD600068,Sunglasses,Accessories,₹503.06,2,Undelivered
+03/05/2023,SD600069,Sunglasses,Bags,"Rs. 1,054",1,Delivered
+08/09/2023,SD600070,Backpack,Home Decor,"1,327",1,Undelivered
+19/07/2023,SD600071,Sunglasses,Accessories,"1,239",1,Delivered
+02/02/2023,SD600072,Backpack,Accessories,933,2,RTO
+04/10/2023,SD600073,Wall Clock,Computer Peripherals,"Rs. 1,423",1,Undelivered
+26/11/2023,SD600074,Wall Clock,Accessories,Rs. 538,1,RTO
+07/06/2023,SD600075,Sunglasses,Bags,₹778.76,2,Undelivered
+13/09/2023,SD600076,Backpack,Computer Peripherals,₹548.94,2,Undelivered
+01/10/2023,SD600077,Wall Clock,Accessories,"₹1,213.00",2,RTO
+19/08/2023,SD600078,Wireless Mouse,Home Decor,Rs. 667,2,RTO
+09/01/2023,SD600079,Wireless Mouse,Computer Peripherals,Rs. 832,1,Undelivered
+19/01/2023,SD600080,Wireless Mouse,Home Decor,"1,147",2,Delivered
+23/06/2023,SD600081,Backpack,Bags,"Rs. 1,179",2,Undelivered
+29/01/2023,SD600082,Sunglasses,Home Decor,₹537.15,1,Undelivered
+22/06/2023,SD600083,Backpack,Accessories,"₹1,322.66",1,Undelivered
+22/01/2023,SD600084,Sunglasses,Home Decor,"Rs. 1,082",2,RTO
+27/07/2023,SD600085,Backpack,Computer Peripherals,467,1,RTO
+02/03/2023,SD600086,Backpack,Bags,Rs. 369,2,Undelivered
+19/04/2023,SD600087,Backpack,Computer Peripherals,894,2,RTO
+01/12/2023,SD600088,Wall Clock,Accessories,"₹1,240.04",1,RTO
+08/12/2023,SD600089,Wireless Mouse,Home Decor,"Rs. 1,250",1,Delivered
+25/09/2023,SD600090,Wireless Mouse,Accessories,"1,042",2,Delivered
+23/08/2023,SD600091,Backpack,Home Decor,919,2,RTO
+14/12/2023,SD600092,Wireless Mouse,Bags,"Rs. 1,105",2,RTO
+02/10/2023,SD600093,Wireless Mouse,Bags,558,1,RTO
+18/03/2023,SD600094,Sunglasses,Accessories,"1,575",2,Delivered
+24/10/2023,SD600095,Wall Clock,Bags,"₹1,569.58",2,RTO
+30/04/2023,SD600096,Wireless Mouse,Home Decor,"1,072",2,Undelivered
+06/02/2023,SD600097,Backpack,Home Decor,Rs. 979,2,Delivered
+19/01/2023,SD600098,Backpack,Computer Peripherals,735,2,RTO
+14/03/2023,SD600099,Sunglasses,Home Decor,"1,111",1,RTO
+08/09/2023,SD600100,Wireless Mouse,Computer Peripherals,₹623.47,2,Undelivered
+01/12/2023,SD600101,Backpack,Bags,₹149.00,2,Undelivered
+10/01/2023,SD600102,Backpack,Computer Peripherals,149,2,RTO
+30/08/2023,SD600103,Wall Clock,Accessories,580,2,RTO
+13/11/2023,SD600104,Wireless Mouse,Home Decor,963,1,RTO
+24/01/2023,SD600105,Wall Clock,Accessories,"1,033",1,Undelivered
+05/05/2023,SD600106,Wall Clock,Computer Peripherals,705,1,RTO
+26/12/2023,SD600107,Wireless Mouse,Bags,957,2,RTO
+29/11/2023,SD600108,Wall Clock,Computer Peripherals,790,2,RTO
+08/03/2023,SD600109,Wireless Mouse,Accessories,500,1,Delivered
+08/01/2023,SD600110,Wireless Mouse,Computer Peripherals,₹878.50,1,RTO
+30/03/2023,SD600111,Wireless Mouse,Accessories,"1,225",1,Delivered
+20/11/2023,SD600112,Wall Clock,Home Decor,518,2,Undelivered
+26/01/2023,SD600113,Wireless Mouse,Accessories,Rs. 519,2,Undelivered
+07/06/2023,SD600114,Wireless Mouse,Accessories,₹472.30,1,Delivered
+19/02/2023,SD600115,Backpack,Accessories,149,1,Delivered
+22/08/2023,SD600116,Wall Clock,Accessories,708,1,Delivered
+09/11/2023,SD600117,Wall Clock,Computer Peripherals,"₹1,185.63",2,RTO
+29/03/2023,SD600118,Wireless Mouse,Home Decor,₹969.57,2,RTO
+30/10/2023,SD600119,Backpack,Bags,Rs. 832,2,Undelivered
+02/02/2023,SD600120,Backpack,Computer Peripherals,952,1,Undelivered
+24/02/2023,SD600121,Sunglasses,Computer Peripherals,₹704.41,1,Undelivered
+28/02/2023,SD600122,Sunglasses,Computer Peripherals,Rs. 149,2,Undelivered
+12/09/2023,SD600123,Backpack,Accessories,"₹1,213.49",1,Delivered
+01/11/2023,SD600124,Wall Clock,Bags,"1,328",2,RTO
+12/11/2023,SD600125,Wall Clock,Computer Peripherals,Rs. 609,1,Delivered
+23/04/2023,SD600126,Wireless Mouse,Computer Peripherals,840,1,Undelivered
+02/02/2023,SD600127,Sunglasses,Bags,Rs. 805,1,Undelivered
+14/04/2023,SD600128,Backpack,Home Decor,"1,041",1,Undelivered
+07/08/2023,SD600129,Wireless Mouse,Bags,"1,576",2,RTO
+22/06/2023,SD600130,Wall Clock,Bags,"1,364",1,Delivered
+14/12/2023,SD600131,Wireless Mouse,Accessories,749,2,Undelivered
+25/07/2023,SD600132,Wireless Mouse,Computer Peripherals,"1,117",2,RTO
+16/06/2023,SD600133,Backpack,Accessories,"1,402",2,RTO
+03/03/2023,SD600134,Wireless Mouse,Home Decor,"1,063",1,Delivered
+17/12/2023,SD600135,Backpack,Computer Peripherals,Rs. 898,2,Undelivered
+22/10/2023,SD600136,Sunglasses,Home Decor,"1,078",2,Delivered
+07/10/2023,SD600137,Wireless Mouse,Home Decor,619,2,Delivered
+12/03/2023,SD600138,Wall Clock,Computer Peripherals,677,1,Delivered
+14/06/2023,SD600139,Wall Clock,Accessories,Rs. 474,1,Delivered
+20/04/2023,SD600140,Wireless Mouse,Computer Peripherals,"₹1,022.83",2,Delivered
+24/01/2023,SD600141,Sunglasses,Bags,₹847.44,1,Delivered
+31/10/2023,SD600142,Wall Clock,Computer Peripherals,₹570.75,2,Undelivered
+30/03/2023,SD600143,Sunglasses,Bags,₹834.33,2,Undelivered
+21/06/2023,SD600144,Wireless Mouse,Bags,"1,088",1,Undelivered
+02/02/2023,SD600145,Sunglasses,Bags,"Rs. 1,666",2,RTO
+03/03/2023,SD600146,Backpack,Computer Peripherals,"1,305",1,Undelivered
+21/05/2023,SD600147,Wall Clock,Accessories,149,1,Undelivered
+14/03/2023,SD600148,Sunglasses,Computer Peripherals,Rs. 996,2,RTO
+01/08/2023,SD600149,Wall Clock,Home Decor,"1,472",1,Delivered
+28/03/2023,SD600150,Sunglasses,Accessories,₹364.85,1,Delivered
+23/12/2023,SD600151,Wall Clock,Accessories,"₹1,120.62",2,Delivered
+09/07/2023,SD600152,Wall Clock,Computer Peripherals,805,2,Undelivered
+11/10/2023,SD600153,Wireless Mouse,Computer Peripherals,"Rs. 1,360",1,Delivered
+26/03/2023,SD600154,Sunglasses,Bags,"1,062",1,Delivered
+13/08/2023,SD600155,Wireless Mouse,Home Decor,546,2,Undelivered
+05/05/2023,SD600156,Wall Clock,Home Decor,820,1,Undelivered
+25/10/2023,SD600157,Sunglasses,Bags,843,1,RTO
+21/01/2023,SD600158,Sunglasses,Accessories,₹850.73,1,RTO
+10/03/2023,SD600159,Backpack,Accessories,"₹1,347.71",1,Delivered
+21/02/2023,SD600160,Wall Clock,Computer Peripherals,563,1,RTO
+20/11/2023,SD600161,Backpack,Home Decor,"₹1,301.22",1,Delivered
+10/11/2023,SD600162,Backpack,Accessories,779,1,RTO
+12/07/2023,SD600163,Sunglasses,Computer Peripherals,989,2,Undelivered
+22/03/2023,SD600164,Backpack,Bags,₹928.95,2,Delivered
+09/01/2023,SD600165,Wall Clock,Computer Peripherals,₹891.28,2,Delivered
+07/09/2023,SD600166,Wireless Mouse,Bags,Rs. 895,2,Delivered
+11/02/2023,SD600167,Backpack,Home Decor,"1,483",2,Undelivered
+04/01/2023,SD600168,Backpack,Home Decor,"Rs. 1,237",1,RTO
+04/01/2023,SD600169,Sunglasses,Accessories,755,1,Undelivered
+02/04/2023,SD600170,Sunglasses,Computer Peripherals,"1,533",1,Delivered
+15/02/2023,SD600171,Sunglasses,Home Decor,"1,010",1,Undelivered
+28/12/2023,SD600172,Wireless Mouse,Accessories,"₹1,043.05",2,Undelivered
+30/11/2023,SD600173,Sunglasses,Computer Peripherals,565,1,RTO
+31/10/2023,SD600174,Wall Clock,Computer Peripherals,701,1,RTO
+26/05/2023,SD600175,Wall Clock,Accessories,Rs. 625,2,Delivered
+02/08/2023,SD600176,Sunglasses,Computer Peripherals,₹934.43,1,Undelivered
+22/12/2023,SD600177,Sunglasses,Home Decor,"1,156",1,RTO
+01/09/2023,SD600178,Wireless Mouse,Accessories,"1,047",2,Delivered
+21/12/2023,SD600179,Wireless Mouse,Home Decor,"1,535",1,Delivered
+06/03/2023,SD600180,Wall Clock,Accessories,545,1,Delivered
+16/04/2023,SD600181,Wireless Mouse,Bags,946,1,RTO
+15/03/2023,SD600182,Sunglasses,Home Decor,₹386.82,1,RTO
+24/11/2023,SD600183,Wireless Mouse,Bags,₹531.25,1,RTO
+19/05/2023,SD600184,Sunglasses,Accessories,"₹1,405.83",2,Delivered
+25/09/2023,SD600185,Wall Clock,Computer Peripherals,Rs. 715,2,RTO
+19/08/2023,SD600186,Backpack,Bags,579,2,RTO
+30/07/2023,SD600187,Wireless Mouse,Accessories,149,2,RTO
+03/05/2023,SD600188,Wall Clock,Bags,₹574.66,2,RTO
+31/03/2023,SD600189,Wall Clock,Home Decor,818,2,Undelivered
+09/11/2023,SD600190,Wireless Mouse,Accessories,357,1,Undelivered
+21/12/2023,SD600191,Backpack,Accessories,795,2,Delivered
+20/01/2023,SD600192,Sunglasses,Computer Peripherals,"1,408",2,Delivered
+02/11/2023,SD600193,Wall Clock,Accessories,617,1,RTO
+03/04/2023,SD600194,Wall Clock,Home Decor,Rs. 523,1,Delivered
+13/09/2023,SD600195,Backpack,Accessories,Rs. 450,2,Undelivered
+10/11/2023,SD600196,Sunglasses,Accessories,Rs. 443,1,Undelivered
+15/02/2023,SD600197,Wall Clock,Home Decor,"1,114",2,RTO
+18/11/2023,SD600198,Backpack,Bags,₹919.47,1,RTO
+04/06/2023,SD600199,Wireless Mouse,Bags,"₹1,282.74",2,Undelivered

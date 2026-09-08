@@ -1,0 +1,201 @@
+sub_order_no,order_date,product_name,category,discounted_price,quantity,customer_state,reason_for_credit_entry
+MSH300000,30-03-2023,Kids Frock,Jewellery,145,4,Uttar Pradesh,RTO Complete
+MSH300001,21-09-2023,Men T-Shirt,Kids Wear,427,2,Maharashtra,Delivered
+MSH300002,03-03-2023,Kids Frock,Saree,125,3,Maharashtra,Cancelled
+MSH300003,13-07-2023,Printed Saree,Men Wear,Rs. 875,2,Maharashtra,RTO Complete
+MSH300004,21-01-2023,Kids Frock,Jewellery,Rs. 735,1,Maharashtra,Cancelled
+MSH300005,08-08-2023,Printed Saree,Men Wear,Rs. 300,3,Karnataka,Delivered
+MSH300006,23-05-2023,Artificial Jewellery Set,Kids Wear,₹99.00,1,Rajasthan,Cancelled
+MSH300007,12-10-2023,Printed Saree,Saree,268,1,Delhi,Delivered
+MSH300008,16-05-2023,Men T-Shirt,Saree,Rs. 373,4,Karnataka,Cancelled
+MSH300009,08-03-2023,Printed Saree,Saree,136,2,Gujarat,RTO Complete
+MSH300010,24-03-2023,Men T-Shirt,Saree,Rs. 390,3,Telangana,RTO Complete
+MSH300011,27-10-2023,Printed Saree,Jewellery,Rs. 372,1,Maharashtra,Delivered
+MSH300012,11-05-2023,Kids Frock,Kids Wear,Rs. 419,1,Rajasthan,RTO Complete
+MSH300013,03-01-2023,Artificial Jewellery Set,Men Wear,434,3,Maharashtra,Cancelled
+MSH300014,19-06-2023,Men T-Shirt,Jewellery,Rs. 255,1,Gujarat,Cancelled
+MSH300015,27-08-2023,Men T-Shirt,Men Wear,272,4,Telangana,Cancelled
+MSH300016,30-12-2023,Kids Frock,Saree,407,4,Maharashtra,Delivered
+MSH300017,21-03-2023,Kids Frock,Kids Wear,305,4,West Bengal,Cancelled
+MSH300018,21-01-2023,Printed Saree,Jewellery,₹536.12,4,Maharashtra,Cancelled
+MSH300019,20-03-2023,Men T-Shirt,Men Wear,405,1,Karnataka,RTO Complete
+MSH300020,15-06-2023,Printed Saree,Men Wear,Rs. 680,3,Tamil Nadu,Delivered
+MSH300021,02-11-2023,Kids Frock,Jewellery,₹523.07,3,Maharashtra,Cancelled
+MSH300022,27-01-2023,Men T-Shirt,Men Wear,Rs. 566,3,Gujarat,Cancelled
+MSH300023,17-11-2023,Artificial Jewellery Set,Men Wear,420,3,Gujarat,RTO Complete
+MSH300024,12-11-2023,Artificial Jewellery Set,Jewellery,424,2,Rajasthan,Delivered
+MSH300025,05-12-2023,Men T-Shirt,Kids Wear,₹659.70,3,Tamil Nadu,Delivered
+MSH300026,04-06-2023,Men T-Shirt,Jewellery,343,2,Rajasthan,RTO Complete
+MSH300027,09-09-2023,Kids Frock,Jewellery,482,2,Gujarat,RTO Complete
+MSH300028,21-10-2023,Men T-Shirt,Kids Wear,360,4,Telangana,RTO Complete
+MSH300029,09-10-2023,Men T-Shirt,Men Wear,360,2,Uttar Pradesh,RTO Complete
+MSH300030,03-07-2023,Artificial Jewellery Set,Jewellery,225,1,Karnataka,Delivered
+MSH300031,07-02-2023,Kids Frock,Men Wear,289,2,Rajasthan,Delivered
+MSH300032,29-12-2023,Printed Saree,Men Wear,₹260.76,4,Maharashtra,Cancelled
+MSH300033,12-06-2023,Men T-Shirt,Men Wear,489,2,Maharashtra,Cancelled
+MSH300034,27-09-2023,Kids Frock,Jewellery,Rs. 556,1,Gujarat,Cancelled
+MSH300035,23-04-2023,Kids Frock,Kids Wear,Rs. 386,1,Tamil Nadu,Delivered
+MSH300036,05-04-2023,Artificial Jewellery Set,Saree,434,1,Uttar Pradesh,Cancelled
+MSH300037,24-09-2023,Men T-Shirt,Kids Wear,377,4,Rajasthan,Cancelled
+MSH300038,04-02-2023,Men T-Shirt,Jewellery,278,4,Karnataka,RTO Complete
+MSH300039,16-09-2023,Kids Frock,Kids Wear,529,3,Delhi,Delivered
+MSH300040,23-03-2023,Men T-Shirt,Saree,498,4,Rajasthan,RTO Complete
+MSH300041,01-08-2023,Artificial Jewellery Set,Kids Wear,116,1,Karnataka,Cancelled
+MSH300042,06-10-2023,Artificial Jewellery Set,Jewellery,358,1,Gujarat,Delivered
+MSH300043,02-10-2023,Artificial Jewellery Set,Men Wear,Rs. 268,4,Tamil Nadu,RTO Complete
+MSH300044,26-07-2023,Men T-Shirt,Saree,Rs. 341,2,Tamil Nadu,Cancelled
+MSH300045,17-02-2023,Men T-Shirt,Kids Wear,299,4,Rajasthan,Cancelled
+MSH300046,28-06-2023,Artificial Jewellery Set,Jewellery,393,4,Maharashtra,Delivered
+MSH300047,24-04-2023,Printed Saree,Saree,351,1,Gujarat,RTO Complete
+MSH300048,20-04-2023,Kids Frock,Saree,₹347.33,3,Maharashtra,Cancelled
+MSH300049,06-12-2023,Printed Saree,Kids Wear,₹566.11,1,Rajasthan,Cancelled
+MSH300050,19-06-2023,Men T-Shirt,Jewellery,Rs. 484,3,West Bengal,Delivered
+MSH300051,19-06-2023,Kids Frock,Jewellery,294,1,Karnataka,Delivered
+MSH300052,04-07-2023,Kids Frock,Saree,Rs. 317,4,Maharashtra,Delivered
+MSH300053,31-05-2023,Men T-Shirt,Saree,474,1,Uttar Pradesh,Cancelled
+MSH300054,22-04-2023,Printed Saree,Men Wear,474,1,Maharashtra,Cancelled
+MSH300055,13-11-2023,Printed Saree,Kids Wear,309,1,Uttar Pradesh,RTO Complete
+MSH300056,29-09-2023,Printed Saree,Men Wear,365,4,Telangana,RTO Complete
+MSH300057,01-09-2023,Printed Saree,Saree,677,4,Maharashtra,Cancelled
+MSH300058,15-10-2023,Artificial Jewellery Set,Saree,312,4,Delhi,Cancelled
+MSH300059,29-11-2023,Kids Frock,Jewellery,687,4,Rajasthan,Cancelled
+MSH300060,05-01-2023,Printed Saree,Jewellery,566,3,West Bengal,Delivered
+MSH300061,28-02-2023,Men T-Shirt,Men Wear,Rs. 659,3,Telangana,Delivered
+MSH300062,09-12-2023,Artificial Jewellery Set,Saree,₹305.64,2,Rajasthan,RTO Complete
+MSH300063,27-06-2023,Kids Frock,Kids Wear,Rs. 375,4,Gujarat,RTO Complete
+MSH300064,17-08-2023,Men T-Shirt,Jewellery,Rs. 333,3,Rajasthan,RTO Complete
+MSH300065,04-05-2023,Artificial Jewellery Set,Jewellery,569,1,Karnataka,Delivered
+MSH300066,25-11-2023,Kids Frock,Saree,₹314.85,4,Uttar Pradesh,Delivered
+MSH300067,11-11-2023,Men T-Shirt,Kids Wear,Rs. 510,2,Tamil Nadu,RTO Complete
+MSH300068,15-11-2023,Kids Frock,Men Wear,Rs. 502,2,Maharashtra,Delivered
+MSH300069,05-05-2023,Artificial Jewellery Set,Kids Wear,393,2,West Bengal,RTO Complete
+MSH300070,21-01-2023,Printed Saree,Saree,₹594.80,1,Maharashtra,Cancelled
+MSH300071,16-12-2023,Artificial Jewellery Set,Kids Wear,416,3,Delhi,Cancelled
+MSH300072,14-06-2023,Men T-Shirt,Kids Wear,₹525.11,1,Delhi,Delivered
+MSH300073,15-07-2023,Printed Saree,Saree,326,4,Rajasthan,Cancelled
+MSH300074,28-02-2023,Kids Frock,Men Wear,₹291.48,2,Delhi,RTO Complete
+MSH300075,17-07-2023,Kids Frock,Kids Wear,₹509.67,1,Maharashtra,RTO Complete
+MSH300076,12-05-2023,Kids Frock,Saree,465,1,Karnataka,Delivered
+MSH300077,04-10-2023,Artificial Jewellery Set,Kids Wear,Rs. 436,3,Karnataka,RTO Complete
+MSH300078,25-05-2023,Kids Frock,Saree,₹348.45,3,Maharashtra,Cancelled
+MSH300079,13-01-2023,Kids Frock,Men Wear,632,2,Telangana,RTO Complete
+MSH300080,22-09-2023,Kids Frock,Jewellery,Rs. 233,1,Delhi,Cancelled
+MSH300081,11-07-2023,Artificial Jewellery Set,Men Wear,224,1,Gujarat,Delivered
+MSH300082,21-09-2023,Men T-Shirt,Jewellery,541,3,Telangana,Delivered
+MSH300083,18-09-2023,Printed Saree,Jewellery,Rs. 529,1,Delhi,RTO Complete
+MSH300084,17-08-2023,Kids Frock,Kids Wear,Rs. 453,1,Maharashtra,Cancelled
+MSH300085,07-09-2023,Artificial Jewellery Set,Saree,₹356.81,1,Uttar Pradesh,Delivered
+MSH300086,23-01-2023,Kids Frock,Saree,₹475.36,3,West Bengal,RTO Complete
+MSH300087,01-06-2023,Printed Saree,Saree,658,2,Gujarat,RTO Complete
+MSH300088,30-11-2023,Men T-Shirt,Men Wear,777,4,Rajasthan,Cancelled
+MSH300089,09-04-2023,Men T-Shirt,Men Wear,152,2,Uttar Pradesh,Cancelled
+MSH300090,14-06-2023,Kids Frock,Men Wear,337,4,Uttar Pradesh,Delivered
+MSH300091,21-09-2023,Printed Saree,Men Wear,328,1,Tamil Nadu,Cancelled
+MSH300092,12-02-2023,Kids Frock,Kids Wear,Rs. 644,2,Maharashtra,Cancelled
+MSH300093,19-02-2023,Men T-Shirt,Kids Wear,99,4,Maharashtra,Cancelled
+MSH300094,27-03-2023,Artificial Jewellery Set,Jewellery,477,3,Telangana,Cancelled
+MSH300095,03-10-2023,Artificial Jewellery Set,Jewellery,361,3,Uttar Pradesh,Delivered
+MSH300096,01-10-2023,Artificial Jewellery Set,Saree,646,2,Delhi,Delivered
+MSH300097,04-01-2023,Printed Saree,Men Wear,625,2,Maharashtra,Delivered
+MSH300098,17-11-2023,Printed Saree,Kids Wear,₹454.83,1,Telangana,RTO Complete
+MSH300099,03-02-2023,Men T-Shirt,Jewellery,163,2,Gujarat,RTO Complete
+MSH300100,18-04-2023,Printed Saree,Saree,314,1,Delhi,RTO Complete
+MSH300101,10-12-2023,Men T-Shirt,Saree,330,1,Gujarat,Cancelled
+MSH300102,19-11-2023,Men T-Shirt,Men Wear,₹201.03,3,Maharashtra,Cancelled
+MSH300103,20-04-2023,Kids Frock,Men Wear,₹573.19,3,Maharashtra,Delivered
+MSH300104,17-12-2023,Artificial Jewellery Set,Saree,Rs. 182,4,Rajasthan,Delivered
+MSH300105,06-08-2023,Artificial Jewellery Set,Men Wear,695,3,West Bengal,Cancelled
+MSH300106,23-02-2023,Men T-Shirt,Men Wear,694,3,Maharashtra,RTO Complete
+MSH300107,16-04-2023,Printed Saree,Jewellery,342,2,Maharashtra,RTO Complete
+MSH300108,03-10-2023,Men T-Shirt,Jewellery,449,3,Uttar Pradesh,RTO Complete
+MSH300109,26-12-2023,Artificial Jewellery Set,Jewellery,389,4,Tamil Nadu,RTO Complete
+MSH300110,11-08-2023,Kids Frock,Kids Wear,535,2,Rajasthan,Delivered
+MSH300111,28-11-2023,Artificial Jewellery Set,Men Wear,Rs. 591,4,Maharashtra,RTO Complete
+MSH300112,06-02-2023,Men T-Shirt,Jewellery,₹438.70,3,Delhi,RTO Complete
+MSH300113,18-12-2023,Men T-Shirt,Jewellery,470,4,Tamil Nadu,Cancelled
+MSH300114,20-03-2023,Artificial Jewellery Set,Saree,Rs. 307,2,Delhi,Cancelled
+MSH300115,13-01-2023,Artificial Jewellery Set,Jewellery,466,1,Telangana,Delivered
+MSH300116,24-08-2023,Printed Saree,Saree,424,4,Rajasthan,RTO Complete
+MSH300117,19-06-2023,Kids Frock,Men Wear,Rs. 263,4,Delhi,Delivered
+MSH300118,20-01-2023,Artificial Jewellery Set,Saree,398,2,Delhi,RTO Complete
+MSH300119,14-02-2023,Kids Frock,Jewellery,Rs. 343,2,Telangana,Cancelled
+MSH300120,07-02-2023,Kids Frock,Kids Wear,309,4,Rajasthan,RTO Complete
+MSH300121,28-01-2023,Printed Saree,Kids Wear,₹228.03,3,West Bengal,Cancelled
+MSH300122,02-04-2023,Men T-Shirt,Men Wear,409,4,Telangana,Delivered
+MSH300123,09-05-2023,Kids Frock,Jewellery,283,2,Telangana,RTO Complete
+MSH300124,13-10-2023,Kids Frock,Men Wear,329,1,Rajasthan,Delivered
+MSH300125,06-02-2023,Kids Frock,Saree,561,1,Telangana,Delivered
+MSH300126,22-10-2023,Kids Frock,Men Wear,495,3,Uttar Pradesh,Delivered
+MSH300127,27-04-2023,Men T-Shirt,Kids Wear,₹253.19,4,Karnataka,Cancelled
+MSH300128,13-05-2023,Printed Saree,Men Wear,Rs. 453,1,Rajasthan,RTO Complete
+MSH300129,28-07-2023,Kids Frock,Saree,Rs. 420,4,Rajasthan,Delivered
+MSH300130,18-07-2023,Artificial Jewellery Set,Jewellery,655,2,West Bengal,Cancelled
+MSH300131,19-08-2023,Men T-Shirt,Men Wear,₹607.47,1,Delhi,Delivered
+MSH300132,19-11-2023,Printed Saree,Saree,170,3,Uttar Pradesh,Delivered
+MSH300133,27-07-2023,Artificial Jewellery Set,Kids Wear,529,2,Maharashtra,Cancelled
+MSH300134,10-08-2023,Artificial Jewellery Set,Jewellery,590,3,Gujarat,Delivered
+MSH300135,11-06-2023,Artificial Jewellery Set,Men Wear,₹483.90,2,West Bengal,Delivered
+MSH300136,09-01-2023,Kids Frock,Men Wear,Rs. 350,1,Delhi,Cancelled
+MSH300137,19-07-2023,Kids Frock,Kids Wear,₹762.01,3,Karnataka,Delivered
+MSH300138,11-12-2023,Artificial Jewellery Set,Men Wear,₹497.71,3,Karnataka,RTO Complete
+MSH300139,02-03-2023,Printed Saree,Kids Wear,Rs. 696,2,Rajasthan,Delivered
+MSH300140,01-10-2023,Kids Frock,Kids Wear,₹602.72,3,West Bengal,RTO Complete
+MSH300141,04-01-2023,Printed Saree,Jewellery,470,2,Rajasthan,Cancelled
+MSH300142,25-11-2023,Kids Frock,Kids Wear,313,2,Maharashtra,Delivered
+MSH300143,13-11-2023,Kids Frock,Kids Wear,Rs. 396,2,Karnataka,RTO Complete
+MSH300144,02-02-2023,Kids Frock,Kids Wear,367,2,Rajasthan,RTO Complete
+MSH300145,27-10-2023,Printed Saree,Men Wear,Rs. 218,1,Uttar Pradesh,RTO Complete
+MSH300146,24-01-2023,Kids Frock,Kids Wear,₹497.54,2,Gujarat,Delivered
+MSH300147,25-12-2023,Printed Saree,Kids Wear,Rs. 635,4,Maharashtra,RTO Complete
+MSH300148,07-02-2023,Kids Frock,Kids Wear,₹355.25,3,Maharashtra,Delivered
+MSH300149,03-07-2023,Men T-Shirt,Kids Wear,725,4,Rajasthan,Cancelled
+MSH300150,15-09-2023,Kids Frock,Men Wear,166,1,Maharashtra,Cancelled
+MSH300151,24-02-2023,Artificial Jewellery Set,Kids Wear,558,4,Maharashtra,Delivered
+MSH300152,29-05-2023,Printed Saree,Saree,651,3,West Bengal,Delivered
+MSH300153,18-12-2023,Men T-Shirt,Saree,₹369.40,4,West Bengal,Cancelled
+MSH300154,04-06-2023,Printed Saree,Saree,372,1,Maharashtra,Cancelled
+MSH300155,07-11-2023,Kids Frock,Jewellery,₹556.41,2,Uttar Pradesh,RTO Complete
+MSH300156,14-02-2023,Artificial Jewellery Set,Saree,Rs. 476,4,Telangana,Cancelled
+MSH300157,25-05-2023,Artificial Jewellery Set,Saree,₹100.39,1,Uttar Pradesh,RTO Complete
+MSH300158,13-08-2023,Artificial Jewellery Set,Jewellery,273,1,Rajasthan,Cancelled
+MSH300159,15-07-2023,Kids Frock,Men Wear,398,3,Telangana,Cancelled
+MSH300160,22-07-2023,Kids Frock,Men Wear,195,3,West Bengal,Delivered
+MSH300161,05-12-2023,Artificial Jewellery Set,Jewellery,329,4,Rajasthan,Cancelled
+MSH300162,16-01-2023,Kids Frock,Men Wear,198,2,Tamil Nadu,Cancelled
+MSH300163,31-08-2023,Kids Frock,Jewellery,₹344.47,1,Maharashtra,Cancelled
+MSH300164,22-03-2023,Men T-Shirt,Kids Wear,Rs. 350,4,Gujarat,Delivered
+MSH300165,01-10-2023,Kids Frock,Men Wear,453,1,Gujarat,RTO Complete
+MSH300166,23-04-2023,Men T-Shirt,Jewellery,386,1,West Bengal,Cancelled
+MSH300167,11-03-2023,Artificial Jewellery Set,Kids Wear,₹475.42,2,Maharashtra,Cancelled
+MSH300168,20-07-2023,Printed Saree,Kids Wear,Rs. 458,2,Maharashtra,Cancelled
+MSH300169,07-10-2023,Kids Frock,Saree,555,4,Tamil Nadu,Delivered
+MSH300170,01-06-2023,Artificial Jewellery Set,Jewellery,₹531.07,2,Uttar Pradesh,RTO Complete
+MSH300171,21-11-2023,Artificial Jewellery Set,Jewellery,Rs. 515,2,Maharashtra,Delivered
+MSH300172,15-03-2023,Kids Frock,Saree,866,4,Rajasthan,Delivered
+MSH300173,02-06-2023,Printed Saree,Men Wear,452,2,Karnataka,RTO Complete
+MSH300174,13-12-2023,Printed Saree,Jewellery,789,3,Tamil Nadu,Delivered
+MSH300175,28-11-2023,Kids Frock,Kids Wear,Rs. 462,1,Maharashtra,Cancelled
+MSH300176,11-07-2023,Artificial Jewellery Set,Jewellery,₹387.57,1,Tamil Nadu,Cancelled
+MSH300177,06-01-2023,Kids Frock,Saree,₹344.03,1,Telangana,RTO Complete
+MSH300178,11-10-2023,Printed Saree,Jewellery,626,1,Telangana,Delivered
+MSH300179,12-10-2023,Kids Frock,Men Wear,646,4,Maharashtra,RTO Complete
+MSH300180,14-03-2023,Artificial Jewellery Set,Saree,Rs. 490,1,Maharashtra,Cancelled
+MSH300181,05-03-2023,Printed Saree,Saree,570,1,Tamil Nadu,Delivered
+MSH300182,22-01-2023,Printed Saree,Kids Wear,₹208.42,1,Rajasthan,Delivered
+MSH300183,03-01-2023,Printed Saree,Jewellery,Rs. 168,1,Rajasthan,RTO Complete
+MSH300184,21-10-2023,Artificial Jewellery Set,Saree,₹586.95,3,Rajasthan,Cancelled
+MSH300185,02-11-2023,Kids Frock,Men Wear,Rs. 381,1,Uttar Pradesh,RTO Complete
+MSH300186,21-07-2023,Printed Saree,Men Wear,512,3,Uttar Pradesh,Cancelled
+MSH300187,03-10-2023,Artificial Jewellery Set,Men Wear,Rs. 292,4,Karnataka,Cancelled
+MSH300188,08-10-2023,Artificial Jewellery Set,Kids Wear,649,2,Delhi,RTO Complete
+MSH300189,13-02-2023,Men T-Shirt,Men Wear,₹168.94,1,Maharashtra,Delivered
+MSH300190,06-06-2023,Printed Saree,Kids Wear,192,2,Gujarat,Delivered
+MSH300191,18-04-2023,Artificial Jewellery Set,Men Wear,₹616.65,2,Maharashtra,RTO Complete
+MSH300192,26-06-2023,Kids Frock,Jewellery,₹99.00,4,Karnataka,Cancelled
+MSH300193,19-04-2023,Artificial Jewellery Set,Men Wear,457,2,Karnataka,RTO Complete
+MSH300194,31-07-2023,Artificial Jewellery Set,Men Wear,Rs. 384,3,Tamil Nadu,Delivered
+MSH300195,27-11-2023,Men T-Shirt,Kids Wear,290,2,Maharashtra,RTO Complete
+MSH300196,20-09-2023,Printed Saree,Jewellery,₹370.01,2,Uttar Pradesh,Cancelled
+MSH300197,14-03-2023,Artificial Jewellery Set,Jewellery,Rs. 273,2,Telangana,Cancelled
+MSH300198,24-03-2023,Kids Frock,Kids Wear,Rs. 631,1,Telangana,Delivered
+MSH300199,05-04-2023,Men T-Shirt,Jewellery,671,1,Tamil Nadu,RTO Complete

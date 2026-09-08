@@ -1,0 +1,201 @@
+order_created_at,Order No,Product Name,Category,Item_Total,Qty,Ship City,order_status
+24/11/2023,MYN1000,Formal Blazer,Ethnic Wear,"Rs. 1,448",2,Kolkata,Cancelled
+27/02/2023,MYN1001,Denim Jeans,Men Fashion,"1,131",2,Jaipur,Returned
+13/01/2023,MYN1002,Running Shoes,Men Fashion,"1,524",1,Mumbai,Cancelled
+21/05/2023,MYN1003,Formal Blazer,Men Fashion,"1,962",1,Surat,Returned
+06/05/2023,MYN1004,Formal Blazer,Women Fashion,"1,083",1,Jaipur,Cancelled
+25/04/2023,MYN1005,Casual Kurta,Men Fashion,"1,083",3,Ahmedabad,Shipped
+13/03/2023,MYN1006,Denim Jeans,Footwear,"1,990",2,Kolkata,Returned
+22/02/2023,MYN1007,Formal Blazer,Women Fashion,"₹1,583.72",3,Mumbai,Returned
+13/12/2023,MYN1008,Denim Jeans,Ethnic Wear,(965),1,Hyderabad,Delivered
+07/10/2023,MYN1009,Running Shoes,Women Fashion,"₹1,471.28",2,Jaipur,Shipped
+14/02/2023,MYN1010,Casual Kurta,Men Fashion,968,3,Pune,Returned
+30/10/2023,MYN1011,Running Shoes,Footwear,Rs. 967,2,Lucknow,Cancelled
+05/08/2023,MYN1012,Casual Kurta,Footwear,"₹1,320.98",3,Ahmedabad,Cancelled
+17/01/2023,MYN1013,Formal Blazer,Men Fashion,₹243.36,2,Surat,Cancelled
+16/01/2023,MYN1014,Casual Kurta,Footwear,₹337.54,1,Ahmedabad,Delivered
+17/02/2023,MYN1015,Cotton Shirt,Women Fashion,Rs. 919,1,Mumbai,Returned
+22/04/2023,MYN1016,Denim Jeans,Women Fashion,Rs. 694,2,Hyderabad,Cancelled
+30/04/2023,MYN1017,Denim Jeans,Men Fashion,"₹1,357.12",3,Chennai,Delivered
+16/09/2023,MYN1018,Cotton Shirt,Footwear,Rs. 746,1,Jaipur,Delivered
+05/11/2023,MYN1019,Running Shoes,Ethnic Wear,Rs. 494,1,Bangalore,Returned
+14/01/2023,MYN1020,Cotton Shirt,Women Fashion,"Rs. 1,933",1,Chennai,Cancelled
+15/10/2023,MYN1021,Formal Blazer,Women Fashion,"1,087",2,Ahmedabad,Shipped
+12/04/2023,MYN1022,Formal Blazer,Women Fashion,"Rs. 1,234",2,Indore,Cancelled
+29/11/2023,MYN1023,Denim Jeans,Women Fashion,488,3,Ahmedabad,Shipped
+26/12/2023,MYN1024,Formal Blazer,Ethnic Wear,928,3,Delhi,Shipped
+07/10/2023,MYN1025,Denim Jeans,Men Fashion,"Rs. 1,255",3,Mumbai,Cancelled
+03/08/2023,MYN1026,Cotton Shirt,Women Fashion,₹624.50,2,Surat,Shipped
+23/04/2023,MYN1027,Cotton Shirt,Footwear,"Rs. 1,388",2,Lucknow,Delivered
+18/08/2023,MYN1028,Cotton Shirt,Ethnic Wear,900,3,Hyderabad,Delivered
+29/10/2023,MYN1029,Denim Jeans,Women Fashion,"₹1,054.15",3,Indore,Cancelled
+23/05/2023,MYN1030,Cotton Shirt,Footwear,₹899.15,2,Bangalore,Returned
+04/01/2023,MYN1031,Cotton Shirt,Women Fashion,"2,126",3,Chennai,Delivered
+23/03/2023,MYN1032,Running Shoes,Men Fashion,"1,193",1,Jaipur,Cancelled
+24/12/2023,MYN1033,Cotton Shirt,Ethnic Wear,Rs. 671,2,Mumbai,Shipped
+05/08/2023,MYN1034,Formal Blazer,Men Fashion,"₹1,611.27",3,Jaipur,Delivered
+24/06/2023,MYN1035,Denim Jeans,Ethnic Wear,Rs. 590,2,Kolkata,Cancelled
+23/05/2023,MYN1036,Running Shoes,Women Fashion,"₹1,304.43",1,Delhi,Cancelled
+21/03/2023,MYN1037,Casual Kurta,Women Fashion,220,2,Hyderabad,Returned
+21/04/2023,MYN1038,Denim Jeans,Ethnic Wear,₹535.91,2,Delhi,Shipped
+22/06/2023,MYN1039,Formal Blazer,Footwear,"₹1,298.43",2,Ahmedabad,Shipped
+22/02/2023,MYN1040,Denim Jeans,Footwear,"1,569",2,Delhi,Shipped
+17/02/2023,MYN1041,Formal Blazer,Women Fashion,"1,286",1,Surat,Cancelled
+14/07/2023,MYN1042,Formal Blazer,Women Fashion,"₹1,142.18",2,Bangalore,Cancelled
+19/02/2023,MYN1043,Casual Kurta,Men Fashion,"1,049",2,Ahmedabad,Shipped
+03/07/2023,MYN1044,Denim Jeans,Women Fashion,₹460.74,3,Indore,Cancelled
+26/06/2023,MYN1045,Casual Kurta,Ethnic Wear,840,2,Chennai,Returned
+06/11/2023,MYN1046,Casual Kurta,Footwear,₹969.68,3,Jaipur,Cancelled
+16/05/2023,MYN1047,Denim Jeans,Footwear,"1,729",1,Indore,Cancelled
+23/01/2023,MYN1048,Cotton Shirt,Men Fashion,"1,372",1,Chennai,Delivered
+24/08/2023,MYN1049,Cotton Shirt,Footwear,318,1,Kolkata,Returned
+02/10/2023,MYN1050,Casual Kurta,Footwear,"1,362",1,Ahmedabad,Delivered
+05/03/2023,MYN1051,Running Shoes,Ethnic Wear,"1,007",3,Ahmedabad,Shipped
+13/07/2023,MYN1052,Casual Kurta,Footwear,862,2,Hyderabad,Shipped
+10/02/2023,MYN1053,Casual Kurta,Men Fashion,"1,506",1,Ahmedabad,Returned
+10/10/2023,MYN1054,Casual Kurta,Men Fashion,"Rs. 1,715",2,Jaipur,Cancelled
+31/05/2023,MYN1055,Cotton Shirt,Footwear,"₹1,665.64",3,Bangalore,Delivered
+18/11/2023,MYN1056,Cotton Shirt,Women Fashion,780,3,Kolkata,Returned
+13/11/2023,MYN1057,Cotton Shirt,Footwear,"1,045",3,Hyderabad,Delivered
+05/07/2023,MYN1058,Casual Kurta,Men Fashion,"1,366",1,Lucknow,Cancelled
+23/10/2023,MYN1059,Running Shoes,Men Fashion,"1,688",2,Jaipur,Delivered
+09/04/2023,MYN1060,Cotton Shirt,Ethnic Wear,960,2,Indore,Returned
+27/12/2023,MYN1061,Denim Jeans,Footwear,"Rs. 1,107",2,Bangalore,Cancelled
+05/02/2023,MYN1062,Denim Jeans,Footwear,647,3,Delhi,Cancelled
+24/01/2023,MYN1063,Denim Jeans,Ethnic Wear,602,1,Chennai,Returned
+05/12/2023,MYN1064,Formal Blazer,Men Fashion,"1,606",3,Kolkata,Cancelled
+27/04/2023,MYN1065,Casual Kurta,Ethnic Wear,"1,878",3,Pune,Delivered
+29/05/2023,MYN1066,Denim Jeans,Women Fashion,"1,164",2,Jaipur,Shipped
+10/02/2023,MYN1067,Casual Kurta,Footwear,"₹1,701.77",3,Chennai,Returned
+30/04/2023,MYN1068,Denim Jeans,Men Fashion,"Rs. 1,381",2,Mumbai,Delivered
+21/02/2023,MYN1069,Running Shoes,Ethnic Wear,₹877.44,1,Chennai,Cancelled
+14/07/2023,MYN1070,Casual Kurta,Men Fashion,"Rs. 1,381",2,Indore,Shipped
+23/05/2023,MYN1071,Denim Jeans,Women Fashion,"1,969",1,Chennai,Delivered
+21/08/2023,MYN1072,Cotton Shirt,Footwear,"Rs. 1,182",2,Lucknow,Returned
+22/11/2023,MYN1073,Casual Kurta,Ethnic Wear,"1,982",3,Lucknow,Cancelled
+06/07/2023,MYN1074,Formal Blazer,Men Fashion,199,3,Surat,Returned
+25/03/2023,MYN1075,Cotton Shirt,Footwear,"₹1,610.95",1,Ahmedabad,Delivered
+09/07/2023,MYN1076,Cotton Shirt,Footwear,"₹1,243.52",1,Bangalore,Shipped
+01/07/2023,MYN1077,Formal Blazer,Men Fashion,"1,050",1,Ahmedabad,Delivered
+18/04/2023,MYN1078,Cotton Shirt,Footwear,"Rs. 1,246",2,Jaipur,Delivered
+10/12/2023,MYN1079,Cotton Shirt,Footwear,206,2,Ahmedabad,Cancelled
+17/05/2023,MYN1080,Denim Jeans,Ethnic Wear,"1,090",1,Pune,Returned
+26/12/2023,MYN1081,Denim Jeans,Footwear,"1,379",3,Pune,Delivered
+16/12/2023,MYN1082,Casual Kurta,Ethnic Wear,"1,939",2,Jaipur,Delivered
+28/11/2023,MYN1083,Casual Kurta,Footwear,941,2,Jaipur,Shipped
+06/02/2023,MYN1084,Casual Kurta,Women Fashion,796,2,Kolkata,Shipped
+08/11/2023,MYN1085,Denim Jeans,Women Fashion,949,1,Ahmedabad,Returned
+22/11/2023,MYN1086,Casual Kurta,Ethnic Wear,"1,658",1,Pune,Returned
+29/03/2023,MYN1087,Cotton Shirt,Ethnic Wear,"1,364",1,Hyderabad,Cancelled
+01/10/2023,MYN1088,Denim Jeans,Women Fashion,935,1,Indore,Returned
+06/05/2023,MYN1089,Casual Kurta,Footwear,"Rs. 1,457",1,Hyderabad,Shipped
+25/03/2023,MYN1090,Cotton Shirt,Ethnic Wear,"₹1,248.54",3,Lucknow,Returned
+25/08/2023,MYN1091,Casual Kurta,Men Fashion,"Rs. 1,684",3,Kolkata,Delivered
+14/07/2023,MYN1092,Running Shoes,Footwear,849,1,Hyderabad,Returned
+19/05/2023,MYN1093,Casual Kurta,Footwear,"₹1,036.17",2,Kolkata,Returned
+24/11/2023,MYN1094,Running Shoes,Women Fashion,"Rs. 1,004",1,Mumbai,Cancelled
+19/12/2023,MYN1095,Casual Kurta,Ethnic Wear,Rs. 468,3,Pune,Delivered
+13/10/2023,MYN1096,Formal Blazer,Footwear,"Rs. 1,348",3,Indore,Cancelled
+23/04/2023,MYN1097,Casual Kurta,Ethnic Wear,"1,331",2,Ahmedabad,Shipped
+17/12/2023,MYN1098,Denim Jeans,Ethnic Wear,"1,203",3,Indore,Returned
+16/06/2023,MYN1099,Denim Jeans,Ethnic Wear,"₹1,082.71",1,Kolkata,Returned
+29/01/2023,MYN1100,Running Shoes,Women Fashion,Rs. 492,2,Kolkata,Shipped
+28/04/2023,MYN1101,Denim Jeans,Ethnic Wear,990,1,Surat,Cancelled
+17/01/2023,MYN1102,Cotton Shirt,Women Fashion,"Rs. 1,029",1,Surat,Delivered
+11/06/2023,MYN1103,Formal Blazer,Men Fashion,799,2,Bangalore,Cancelled
+25/07/2023,MYN1104,Formal Blazer,Footwear,"Rs. 1,119",1,Ahmedabad,Cancelled
+18/05/2023,MYN1105,Cotton Shirt,Footwear,"1,402",3,Mumbai,Delivered
+03/02/2023,MYN1106,Running Shoes,Men Fashion,"₹2,143.09",1,Bangalore,Returned
+19/04/2023,MYN1107,Cotton Shirt,Women Fashion,"Rs. 1,287",2,Jaipur,Cancelled
+18/10/2023,MYN1108,Cotton Shirt,Footwear,"1,329",2,Lucknow,Shipped
+11/06/2023,MYN1109,Formal Blazer,Women Fashion,"₹1,162.78",2,Pune,Delivered
+19/04/2023,MYN1110,Casual Kurta,Women Fashion,₹240.61,1,Delhi,Returned
+02/12/2023,MYN1111,Formal Blazer,Women Fashion,"1,187",2,Ahmedabad,Delivered
+13/09/2023,MYN1112,Formal Blazer,Men Fashion,"Rs. 1,230",2,Delhi,Shipped
+22/07/2023,MYN1113,Denim Jeans,Men Fashion,"2,432",1,Jaipur,Delivered
+26/11/2023,MYN1114,Cotton Shirt,Women Fashion,"₹1,103.82",3,Ahmedabad,Delivered
+23/08/2023,MYN1115,Formal Blazer,Ethnic Wear,"1,351",1,Mumbai,Cancelled
+15/03/2023,MYN1116,Cotton Shirt,Men Fashion,"1,183",2,Indore,Shipped
+16/05/2023,MYN1117,Denim Jeans,Ethnic Wear,616,2,Bangalore,Shipped
+13/03/2023,MYN1118,Cotton Shirt,Ethnic Wear,"Rs. 1,771",1,Kolkata,Shipped
+07/05/2023,MYN1119,Formal Blazer,Women Fashion,"₹1,575.97",3,Surat,Delivered
+15/10/2023,MYN1120,Cotton Shirt,Ethnic Wear,"1,596",2,Bangalore,Shipped
+03/10/2023,MYN1121,Denim Jeans,Ethnic Wear,745,2,Delhi,Shipped
+15/05/2023,MYN1122,Casual Kurta,Ethnic Wear,"₹1,901.40",2,Ahmedabad,Shipped
+27/10/2023,MYN1123,Cotton Shirt,Women Fashion,499,1,Chennai,Cancelled
+08/08/2023,MYN1124,Formal Blazer,Women Fashion,"₹1,493.43",2,Pune,Shipped
+26/10/2023,MYN1125,Denim Jeans,Men Fashion,"Rs. 2,295",3,Lucknow,Delivered
+24/07/2023,MYN1126,Formal Blazer,Men Fashion,Rs. 705,2,Indore,Cancelled
+05/07/2023,MYN1127,Formal Blazer,Ethnic Wear,917,2,Kolkata,Shipped
+23/04/2023,MYN1128,Cotton Shirt,Women Fashion,"₹1,249.83",3,Surat,Shipped
+12/03/2023,MYN1129,Formal Blazer,Women Fashion,Rs. 948,2,Delhi,Cancelled
+18/09/2023,MYN1130,Cotton Shirt,Ethnic Wear,₹424.67,1,Pune,Shipped
+10/09/2023,MYN1131,Casual Kurta,Men Fashion,"1,234",1,Surat,Delivered
+16/02/2023,MYN1132,Formal Blazer,Women Fashion,Rs. 669,1,Jaipur,Delivered
+25/01/2023,MYN1133,Formal Blazer,Men Fashion,"1,437",3,Kolkata,Shipped
+26/02/2023,MYN1134,Formal Blazer,Ethnic Wear,740,2,Pune,Delivered
+20/03/2023,MYN1135,Running Shoes,Women Fashion,"1,975",1,Surat,Cancelled
+18/11/2023,MYN1136,Running Shoes,Ethnic Wear,₹808.37,3,Indore,Shipped
+23/03/2023,MYN1137,Denim Jeans,Footwear,"₹1,038.97",2,Ahmedabad,Cancelled
+15/12/2023,MYN1138,Running Shoes,Ethnic Wear,"Rs. 1,607",3,Jaipur,Delivered
+05/08/2023,MYN1139,Denim Jeans,Ethnic Wear,Rs. 585,1,Mumbai,Shipped
+02/11/2023,MYN1140,Running Shoes,Ethnic Wear,"1,314",1,Lucknow,Cancelled
+02/02/2023,MYN1141,Casual Kurta,Women Fashion,"₹1,853.57",1,Delhi,Delivered
+17/07/2023,MYN1142,Denim Jeans,Ethnic Wear,Rs. 396,3,Hyderabad,Shipped
+15/07/2023,MYN1143,Running Shoes,Ethnic Wear,"Rs. 1,292",3,Surat,Returned
+02/11/2023,MYN1144,Casual Kurta,Footwear,"Rs. 1,330",1,Surat,Delivered
+28/08/2023,MYN1145,Running Shoes,Women Fashion,"₹1,590.91",3,Chennai,Delivered
+28/09/2023,MYN1146,Cotton Shirt,Footwear,Rs. 582,1,Hyderabad,Returned
+09/05/2023,MYN1147,Cotton Shirt,Ethnic Wear,₹539.77,1,Indore,Returned
+11/10/2023,MYN1148,Casual Kurta,Women Fashion,"1,461",2,Delhi,Cancelled
+06/01/2023,MYN1149,Formal Blazer,Footwear,"1,348",3,Kolkata,Delivered
+15/12/2023,MYN1150,Formal Blazer,Ethnic Wear,"Rs. 1,325",1,Delhi,Returned
+28/02/2023,MYN1151,Cotton Shirt,Men Fashion,"1,373",1,Surat,Shipped
+16/12/2023,MYN1152,Cotton Shirt,Footwear,860,3,Indore,Delivered
+02/10/2023,MYN1153,Formal Blazer,Women Fashion,"1,316",2,Delhi,Cancelled
+17/05/2023,MYN1154,Denim Jeans,Footwear,"Rs. 1,347",2,Ahmedabad,Returned
+25/11/2023,MYN1155,Formal Blazer,Footwear,843,1,Bangalore,Delivered
+24/06/2023,MYN1156,Running Shoes,Footwear,"Rs. 2,133",3,Indore,Delivered
+27/02/2023,MYN1157,Denim Jeans,Men Fashion,"1,437",2,Chennai,Returned
+31/05/2023,MYN1158,Running Shoes,Women Fashion,Rs. 604,3,Mumbai,Returned
+11/08/2023,MYN1159,Cotton Shirt,Women Fashion,"Rs. 1,528",3,Mumbai,Returned
+22/03/2023,MYN1160,Denim Jeans,Women Fashion,713,1,Pune,Delivered
+21/08/2023,MYN1161,Running Shoes,Ethnic Wear,"Rs. 1,594",2,Mumbai,Returned
+02/01/2023,MYN1162,Running Shoes,Women Fashion,"₹1,779.30",1,Chennai,Returned
+15/05/2023,MYN1163,Denim Jeans,Women Fashion,₹789.66,2,Pune,Delivered
+14/09/2023,MYN1164,Casual Kurta,Men Fashion,"Rs. 1,682",2,Pune,Delivered
+02/04/2023,MYN1165,Formal Blazer,Ethnic Wear,"1,406",2,Kolkata,Cancelled
+17/09/2023,MYN1166,Running Shoes,Ethnic Wear,"1,611",2,Bangalore,Shipped
+24/02/2023,MYN1167,Formal Blazer,Footwear,"2,148",2,Hyderabad,Delivered
+17/11/2023,MYN1168,Formal Blazer,Ethnic Wear,"1,077",3,Jaipur,Shipped
+02/06/2023,MYN1169,Cotton Shirt,Ethnic Wear,823,1,Kolkata,Cancelled
+24/11/2023,MYN1170,Formal Blazer,Men Fashion,755,3,Lucknow,Cancelled
+17/09/2023,MYN1171,Running Shoes,Women Fashion,₹792.09,2,Surat,Returned
+08/11/2023,MYN1172,Cotton Shirt,Ethnic Wear,"1,161",1,Bangalore,Cancelled
+12/04/2023,MYN1173,Denim Jeans,Ethnic Wear,"1,371",2,Bangalore,Returned
+20/03/2023,MYN1174,Running Shoes,Men Fashion,"₹1,338.35",1,Bangalore,Returned
+11/07/2023,MYN1175,Cotton Shirt,Ethnic Wear,"₹1,613.59",3,Delhi,Delivered
+24/03/2023,MYN1176,Cotton Shirt,Ethnic Wear,"Rs. 1,207",1,Lucknow,Delivered
+04/10/2023,MYN1177,Formal Blazer,Men Fashion,"₹1,926.77",1,Kolkata,Shipped
+29/09/2023,MYN1178,Denim Jeans,Footwear,"1,068",1,Lucknow,Returned
+01/01/2023,MYN1179,Running Shoes,Footwear,"₹2,560.08",1,Surat,Returned
+03/11/2023,MYN1180,Running Shoes,Ethnic Wear,"Rs. 1,513",1,Hyderabad,Shipped
+15/06/2023,MYN1181,Formal Blazer,Ethnic Wear,771,2,Ahmedabad,Returned
+08/09/2023,MYN1182,Denim Jeans,Women Fashion,665,1,Lucknow,Cancelled
+10/01/2023,MYN1183,Running Shoes,Ethnic Wear,"Rs. 1,441",1,Bangalore,Returned
+27/02/2023,MYN1184,Denim Jeans,Women Fashion,"1,088",3,Hyderabad,Returned
+05/07/2023,MYN1185,Running Shoes,Footwear,"1,557",1,Ahmedabad,Returned
+07/06/2023,MYN1186,Formal Blazer,Ethnic Wear,"1,437",3,Surat,Delivered
+03/05/2023,MYN1187,Casual Kurta,Ethnic Wear,"1,164",2,Chennai,Cancelled
+30/01/2023,MYN1188,Running Shoes,Men Fashion,777,1,Ahmedabad,Returned
+04/05/2023,MYN1189,Cotton Shirt,Ethnic Wear,₹442.58,3,Chennai,Cancelled
+18/10/2023,MYN1190,Cotton Shirt,Footwear,Rs. 977,3,Surat,Cancelled
+10/02/2023,MYN1191,Casual Kurta,Ethnic Wear,"1,628",2,Mumbai,Cancelled
+13/02/2023,MYN1192,Running Shoes,Women Fashion,"1,307",1,Ahmedabad,Shipped
+06/09/2023,MYN1193,Cotton Shirt,Ethnic Wear,577,1,Chennai,Returned
+05/02/2023,MYN1194,Cotton Shirt,Women Fashion,"1,287",3,Surat,Delivered
+30/09/2023,MYN1195,Running Shoes,Men Fashion,"₹1,392.66",1,Jaipur,Delivered
+06/03/2023,MYN1196,Denim Jeans,Ethnic Wear,758,3,Bangalore,Delivered
+07/03/2023,MYN1197,Running Shoes,Men Fashion,"1,277",1,Delhi,Delivered
+04/12/2023,MYN1198,Denim Jeans,Men Fashion,"1,229",3,Ahmedabad,Returned
+01/09/2023,MYN1199,Casual Kurta,Ethnic Wear,₹628.51,1,Pune,Delivered

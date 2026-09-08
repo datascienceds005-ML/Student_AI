@@ -1,0 +1,201 @@
+Order_Date,OrderNumber,ItemDescription,ProductCategory,MRP,Units,Address,OrderStatus
+23.06.2023,TC100000,Air Fryer,Fashion,"₹2,119.59",1,"Kolkata, Delhi",Returned
+29.05.2023,TC100001,Handbag,Home Appliances,"₹1,514.35",1,"Bangalore, Uttar Pradesh",Delivered
+04.07.2023,TC100002,Home Theatre System,Electronics,"2,381",1,"Chennai, Telangana",Returned
+16.11.2023,TC100003,Formal Shoes,Fashion,"₹1,860.08",1,"Lucknow, Rajasthan",Returned
+09.08.2023,TC100004,Designer Watch,Electronics,"Rs. 4,055",2,"Pune, Karnataka",Shipped
+21.01.2023,TC100005,Formal Shoes,Electronics,"3,173",1,"Lucknow, Rajasthan",Returned
+31.12.2023,TC100006,Handbag,Home Appliances,Rs. 457,1,"Lucknow, Tamil Nadu",Shipped
+16.12.2023,TC100007,Home Theatre System,Home Appliances,523,2,"Mumbai, West Bengal",Cancelled
+18.07.2023,TC100008,Home Theatre System,Accessories,"Rs. 2,043",1,"Bangalore, West Bengal",Cancelled
+03.05.2023,TC100009,Designer Watch,Electronics,"1,726",2,"Surat, Maharashtra",Delivered
+17.04.2023,TC100010,Designer Watch,Fashion,"1,980",2,"Ahmedabad, Rajasthan",Delivered
+09.11.2023,TC100011,Formal Shoes,Home Appliances,"2,981",1,"Ahmedabad, Maharashtra",Delivered
+07.11.2023,TC100012,Handbag,Electronics,"₹2,578.88",2,"Delhi, Maharashtra",Returned
+08.02.2023,TC100013,Designer Watch,Fashion,"Rs. 2,567",1,"Chennai, Delhi",Shipped
+20.03.2023,TC100014,Handbag,Electronics,"Rs. 3,935",1,"Pune, Uttar Pradesh",Cancelled
+18.10.2023,TC100015,Formal Shoes,Electronics,533,2,"Delhi, Tamil Nadu",Returned
+18.11.2023,TC100016,Designer Watch,Fashion,"2,325",2,"Lucknow, Gujarat",Shipped
+12.09.2023,TC100017,Air Fryer,Fashion,"Rs. 1,505",1,"Indore, Maharashtra",Cancelled
+19.02.2023,TC100018,Designer Watch,Home Appliances,"3,923",2,"Mumbai, Delhi",Returned
+08.01.2023,TC100019,Designer Watch,Electronics,299,2,"Indore, Uttar Pradesh",Returned
+15.03.2023,TC100020,Handbag,Fashion,299,1,"Surat, Rajasthan",Returned
+08.06.2023,TC100021,Home Theatre System,Electronics,"2,566",1,"Indore, Maharashtra",Shipped
+08.10.2023,TC100022,Air Fryer,Home Appliances,"₹3,551.56",2,"Indore, Telangana",Returned
+14.02.2023,TC100023,Air Fryer,Fashion,"Rs. 3,128",1,"Jaipur, Karnataka",Returned
+13.09.2023,TC100024,Home Theatre System,Fashion,"1,239",1,"Jaipur, Gujarat",Delivered
+18.02.2023,TC100025,Air Fryer,Electronics,"₹4,007.71",1,"Bangalore, Telangana",Delivered
+21.08.2023,TC100026,Air Fryer,Fashion,Rs. 722,1,"Surat, Karnataka",Returned
+10.06.2023,TC100027,Handbag,Home Appliances,"₹3,768.98",1,"Chennai, Tamil Nadu",Cancelled
+28.03.2023,TC100028,Home Theatre System,Home Appliances,881,1,"Indore, Maharashtra",Cancelled
+01.06.2023,TC100029,Formal Shoes,Accessories,"₹1,777.81",1,"Ahmedabad, Uttar Pradesh",Returned
+24.03.2023,TC100030,Formal Shoes,Fashion,"2,967",2,"Indore, Telangana",Delivered
+04.02.2023,TC100031,Formal Shoes,Electronics,441,1,"Delhi, Delhi",Shipped
+24.05.2023,TC100032,Formal Shoes,Home Appliances,"₹3,962.83",2,"Mumbai, Karnataka",Shipped
+23.10.2023,TC100033,Air Fryer,Home Appliances,"₹1,770.47",2,"Lucknow, Delhi",Shipped
+06.07.2023,TC100034,Air Fryer,Accessories,"2,365",2,"Jaipur, Delhi",Returned
+30.06.2023,TC100035,Handbag,Accessories,"3,595",1,"Hyderabad, Telangana",Shipped
+15.02.2023,TC100036,Formal Shoes,Accessories,"1,248",1,"Delhi, Gujarat",Delivered
+06.02.2023,TC100037,Handbag,Accessories,"3,473",2,"Mumbai, Rajasthan",Returned
+02.04.2023,TC100038,Air Fryer,Fashion,"₹4,168.64",1,"Ahmedabad, West Bengal",Shipped
+30.12.2023,TC100039,Home Theatre System,Home Appliances,"1,413",2,"Mumbai, Delhi",Delivered
+24.08.2023,TC100040,Designer Watch,Fashion,"₹3,843.27",1,"Chennai, West Bengal",Shipped
+13.05.2023,TC100041,Formal Shoes,Fashion,₹299.00,1,"Ahmedabad, Karnataka",Cancelled
+31.08.2023,TC100042,Formal Shoes,Home Appliances,"2,668",2,"Hyderabad, Rajasthan",Cancelled
+12.05.2023,TC100043,Air Fryer,Accessories,726,2,"Chennai, Uttar Pradesh",Delivered
+15.08.2023,TC100044,Designer Watch,Electronics,"Rs. 3,331",2,"Surat, Gujarat",Delivered
+29.11.2023,TC100045,Handbag,Home Appliances,"3,233",1,"Surat, Uttar Pradesh",Cancelled
+13.03.2023,TC100046,Handbag,Fashion,"4,693",2,"Delhi, West Bengal",Delivered
+05.03.2023,TC100047,Designer Watch,Fashion,"3,906",1,"Bangalore, Maharashtra",Returned
+19.10.2023,TC100048,Handbag,Accessories,"₹2,001.07",1,"Bangalore, Karnataka",Returned
+07.09.2023,TC100049,Formal Shoes,Accessories,₹901.90,1,"Indore, Telangana",Cancelled
+21.01.2023,TC100050,Formal Shoes,Accessories,"Rs. 2,879",2,"Bangalore, Rajasthan",Returned
+06.07.2023,TC100051,Air Fryer,Accessories,"₹2,127.12",2,"Indore, Rajasthan",Delivered
+27.05.2023,TC100052,Formal Shoes,Home Appliances,"Rs. 4,061",2,"Hyderabad, Gujarat",Delivered
+25.07.2023,TC100053,Air Fryer,Home Appliances,₹299.00,1,"Ahmedabad, Tamil Nadu",Returned
+29.07.2023,TC100054,Handbag,Electronics,"₹4,825.67",1,"Chennai, Delhi",Cancelled
+14.11.2023,TC100055,Home Theatre System,Accessories,"₹2,838.39",2,"Lucknow, Gujarat",Cancelled
+15.12.2023,TC100056,Home Theatre System,Accessories,"1,224",1,"Pune, Tamil Nadu",Delivered
+08.03.2023,TC100057,Home Theatre System,Fashion,"Rs. 3,081",1,"Kolkata, West Bengal",Cancelled
+14.08.2023,TC100058,Home Theatre System,Home Appliances,"₹3,756.91",2,"Indore, Delhi",Cancelled
+07.07.2023,TC100059,Home Theatre System,Home Appliances,"₹2,337.22",2,"Ahmedabad, West Bengal",Cancelled
+20.09.2023,TC100060,Handbag,Electronics,299,2,"Kolkata, Karnataka",Delivered
+16.11.2023,TC100061,Formal Shoes,Accessories,"Rs. 1,847",1,"Mumbai, Tamil Nadu",Shipped
+10.06.2023,TC100062,Home Theatre System,Fashion,"3,447",1,"Ahmedabad, Delhi",Shipped
+11.07.2023,TC100063,Formal Shoes,Electronics,"₹2,796.00",1,"Lucknow, West Bengal",Cancelled
+12.02.2023,TC100064,Handbag,Home Appliances,"Rs. 2,012",1,"Mumbai, Uttar Pradesh",Shipped
+16.12.2023,TC100065,Handbag,Accessories,"3,770",1,"Chennai, Maharashtra",Cancelled
+31.07.2023,TC100066,Home Theatre System,Home Appliances,"3,087",2,"Surat, Uttar Pradesh",Delivered
+17.09.2023,TC100067,Formal Shoes,Home Appliances,"Rs. 3,180",1,"Ahmedabad, Maharashtra",Returned
+19.08.2023,TC100068,Handbag,Accessories,"1,707",1,"Pune, Karnataka",Delivered
+15.05.2023,TC100069,Handbag,Electronics,"1,591",1,"Ahmedabad, Gujarat",Returned
+16.12.2023,TC100070,Home Theatre System,Electronics,299,2,"Chennai, Maharashtra",Delivered
+22.01.2023,TC100071,Air Fryer,Fashion,"₹1,888.73",2,"Bangalore, Maharashtra",Returned
+14.11.2023,TC100072,Formal Shoes,Home Appliances,"₹3,322.47",2,"Jaipur, Rajasthan",Returned
+26.11.2023,TC100073,Designer Watch,Accessories,"Rs. 1,955",1,"Hyderabad, Maharashtra",Shipped
+30.01.2023,TC100074,Designer Watch,Fashion,"2,735",2,"Indore, Rajasthan",Delivered
+06.05.2023,TC100075,Formal Shoes,Home Appliances,"Rs. 3,533",2,"Kolkata, Rajasthan",Returned
+25.12.2023,TC100076,Handbag,Fashion,"Rs. 2,647",2,"Delhi, Karnataka",Cancelled
+15.10.2023,TC100077,Formal Shoes,Electronics,"2,765",1,"Surat, Karnataka",Cancelled
+05.01.2023,TC100078,Home Theatre System,Fashion,₹570.61,2,"Pune, Uttar Pradesh",Delivered
+21.03.2023,TC100079,Designer Watch,Home Appliances,"Rs. 1,813",1,"Pune, Gujarat",Delivered
+23.02.2023,TC100080,Formal Shoes,Home Appliances,"Rs. 4,272",1,"Indore, Karnataka",Cancelled
+29.05.2023,TC100081,Home Theatre System,Fashion,"2,325",2,"Chennai, Tamil Nadu",Returned
+12.07.2023,TC100082,Air Fryer,Home Appliances,"4,476",1,"Kolkata, Delhi",Cancelled
+23.03.2023,TC100083,Formal Shoes,Electronics,"₹1,332.26",2,"Surat, Gujarat",Cancelled
+19.10.2023,TC100084,Formal Shoes,Electronics,"2,481",1,"Kolkata, Gujarat",Returned
+24.07.2023,TC100085,Formal Shoes,Home Appliances,"₹1,740.79",2,"Lucknow, Karnataka",Shipped
+07.02.2023,TC100086,Home Theatre System,Electronics,"Rs. 2,910",2,"Lucknow, Rajasthan",Cancelled
+25.04.2023,TC100087,Air Fryer,Home Appliances,"3,274",2,"Surat, Rajasthan",Cancelled
+18.07.2023,TC100088,Designer Watch,Fashion,"₹2,922.96",1,"Chennai, Karnataka",Shipped
+25.08.2023,TC100089,Handbag,Accessories,"Rs. 3,450",2,"Indore, Maharashtra",Shipped
+09.12.2023,TC100090,Air Fryer,Home Appliances,"₹2,184.19",1,"Lucknow, Uttar Pradesh",Delivered
+17.02.2023,TC100091,Air Fryer,Fashion,"1,971",2,"Pune, Uttar Pradesh",Returned
+28.06.2023,TC100092,Air Fryer,Electronics,299,1,"Lucknow, West Bengal",Returned
+27.08.2023,TC100093,Air Fryer,Accessories,"2,966",1,"Delhi, Maharashtra",Delivered
+28.08.2023,TC100094,Formal Shoes,Home Appliances,"2,407",2,"Mumbai, Karnataka",Shipped
+25.11.2023,TC100095,Designer Watch,Fashion,"₹2,118.50",2,"Hyderabad, Delhi",Returned
+01.10.2023,TC100096,Home Theatre System,Fashion,"1,971",2,"Surat, Delhi",Returned
+27.08.2023,TC100097,Formal Shoes,Electronics,"Rs. 2,156",2,"Ahmedabad, Gujarat",Cancelled
+25.02.2023,TC100098,Home Theatre System,Home Appliances,"Rs. 1,917",2,"Pune, Telangana",Delivered
+13.02.2023,TC100099,Home Theatre System,Electronics,"Rs. 1,566",1,"Indore, Telangana",Returned
+03.04.2023,TC100100,Home Theatre System,Accessories,"₹2,487.51",2,"Delhi, Karnataka",Returned
+25.02.2023,TC100101,Designer Watch,Accessories,"₹2,780.99",2,"Indore, West Bengal",Returned
+23.07.2023,TC100102,Air Fryer,Home Appliances,"1,275",1,"Kolkata, Delhi",Returned
+10.08.2023,TC100103,Handbag,Home Appliances,"1,719",2,"Mumbai, Uttar Pradesh",Delivered
+13.04.2023,TC100104,Handbag,Fashion,"1,954",2,"Chennai, Delhi",Delivered
+25.07.2023,TC100105,Air Fryer,Fashion,"2,206",1,"Mumbai, Delhi",Returned
+18.06.2023,TC100106,Air Fryer,Electronics,"2,046",2,"Ahmedabad, Maharashtra",Returned
+03.02.2023,TC100107,Designer Watch,Accessories,"2,992",2,"Lucknow, Maharashtra",Returned
+12.06.2023,TC100108,Handbag,Accessories,(299),2,"Bangalore, Maharashtra",Shipped
+25.06.2023,TC100109,Formal Shoes,Electronics,430,1,"Delhi, Gujarat",Cancelled
+06.11.2023,TC100110,Designer Watch,Home Appliances,"2,432",2,"Kolkata, Karnataka",Cancelled
+06.09.2023,TC100111,Handbag,Accessories,"1,477",1,"Surat, Uttar Pradesh",Delivered
+19.04.2023,TC100112,Formal Shoes,Electronics,"3,261",2,"Jaipur, Telangana",Cancelled
+26.12.2023,TC100113,Designer Watch,Electronics,"₹3,603.76",1,"Hyderabad, Tamil Nadu",Delivered
+01.09.2023,TC100114,Handbag,Accessories,"Rs. 2,480",2,"Ahmedabad, Gujarat",Cancelled
+28.02.2023,TC100115,Formal Shoes,Fashion,914,1,"Surat, Tamil Nadu",Delivered
+23.05.2023,TC100116,Home Theatre System,Home Appliances,"Rs. 3,466",1,"Hyderabad, Telangana",Returned
+21.08.2023,TC100117,Handbag,Accessories,"2,439",1,"Indore, Karnataka",Cancelled
+20.01.2023,TC100118,Formal Shoes,Fashion,(416),1,"Kolkata, Rajasthan",Shipped
+07.10.2023,TC100119,Designer Watch,Electronics,522,1,"Hyderabad, Delhi",Cancelled
+21.03.2023,TC100120,Formal Shoes,Home Appliances,"₹4,020.34",1,"Lucknow, Maharashtra",Delivered
+29.08.2023,TC100121,Designer Watch,Electronics,"Rs. 3,821",2,"Surat, Delhi",Delivered
+16.03.2023,TC100122,Formal Shoes,Electronics,299,2,"Hyderabad, Maharashtra",Returned
+24.11.2023,TC100123,Air Fryer,Accessories,571,1,"Bangalore, Maharashtra",Returned
+20.04.2023,TC100124,Handbag,Home Appliances,"3,569",1,"Pune, West Bengal",Delivered
+13.06.2023,TC100125,Designer Watch,Fashion,"Rs. 2,178",1,"Lucknow, Rajasthan",Cancelled
+18.10.2023,TC100126,Formal Shoes,Accessories,"3,042",1,"Delhi, Maharashtra",Shipped
+17.01.2023,TC100127,Designer Watch,Electronics,"2,126",2,"Bangalore, Rajasthan",Returned
+04.11.2023,TC100128,Home Theatre System,Electronics,"2,985",1,"Ahmedabad, Telangana",Returned
+14.07.2023,TC100129,Designer Watch,Home Appliances,"2,207",2,"Hyderabad, Uttar Pradesh",Returned
+01.02.2023,TC100130,Handbag,Electronics,"1,675",2,"Ahmedabad, Rajasthan",Cancelled
+05.07.2023,TC100131,Home Theatre System,Electronics,"3,470",1,"Pune, Maharashtra",Shipped
+09.08.2023,TC100132,Handbag,Accessories,"Rs. 2,442",1,"Lucknow, Rajasthan",Shipped
+31.08.2023,TC100133,Formal Shoes,Electronics,"₹2,982.87",2,"Bangalore, Delhi",Shipped
+20.04.2023,TC100134,Air Fryer,Accessories,"2,389",2,"Ahmedabad, West Bengal",Shipped
+28.01.2023,TC100135,Handbag,Home Appliances,"₹1,616.37",1,"Surat, West Bengal",Delivered
+19.04.2023,TC100136,Designer Watch,Home Appliances,"4,130",1,"Delhi, Uttar Pradesh",Shipped
+12.01.2023,TC100137,Air Fryer,Home Appliances,"2,626",1,"Delhi, Karnataka",Delivered
+17.12.2023,TC100138,Designer Watch,Home Appliances,"1,774",2,"Jaipur, Tamil Nadu",Delivered
+05.08.2023,TC100139,Home Theatre System,Accessories,"₹3,734.00",2,"Delhi, Delhi",Shipped
+19.05.2023,TC100140,Home Theatre System,Electronics,₹615.01,1,"Ahmedabad, Telangana",Cancelled
+10.05.2023,TC100141,Home Theatre System,Home Appliances,"4,884",2,"Mumbai, Uttar Pradesh",Returned
+22.11.2023,TC100142,Formal Shoes,Accessories,"Rs. 1,985",2,"Jaipur, Maharashtra",Delivered
+01.04.2023,TC100143,Home Theatre System,Electronics,678,1,"Mumbai, Telangana",Shipped
+12.02.2023,TC100144,Handbag,Accessories,"4,487",1,"Chennai, Tamil Nadu",Delivered
+14.03.2023,TC100145,Designer Watch,Home Appliances,"Rs. 1,644",2,"Kolkata, Maharashtra",Returned
+05.02.2023,TC100146,Home Theatre System,Accessories,"2,492",2,"Delhi, Karnataka",Returned
+21.05.2023,TC100147,Handbag,Accessories,"3,061",1,"Chennai, Delhi",Delivered
+27.07.2023,TC100148,Handbag,Electronics,"3,621",1,"Jaipur, Uttar Pradesh",Returned
+11.02.2023,TC100149,Home Theatre System,Home Appliances,"₹2,559.73",1,"Hyderabad, Rajasthan",Delivered
+02.06.2023,TC100150,Handbag,Electronics,"(1,423)",1,"Lucknow, Rajasthan",Shipped
+31.12.2023,TC100151,Formal Shoes,Electronics,"2,463",1,"Chennai, West Bengal",Returned
+20.08.2023,TC100152,Home Theatre System,Fashion,"₹1,696.82",2,"Lucknow, Maharashtra",Delivered
+03.08.2023,TC100153,Designer Watch,Electronics,"₹2,498.81",2,"Jaipur, Delhi",Delivered
+26.09.2023,TC100154,Formal Shoes,Electronics,"4,154",2,"Lucknow, Gujarat",Cancelled
+20.04.2023,TC100155,Air Fryer,Fashion,"3,107",2,"Chennai, Maharashtra",Delivered
+09.12.2023,TC100156,Designer Watch,Electronics,"₹2,447.98",1,"Mumbai, Maharashtra",Delivered
+13.05.2023,TC100157,Designer Watch,Home Appliances,"₹3,086.19",1,"Kolkata, Tamil Nadu",Shipped
+05.04.2023,TC100158,Designer Watch,Accessories,"3,172",1,"Hyderabad, Maharashtra",Shipped
+28.01.2023,TC100159,Air Fryer,Fashion,Rs. 907,2,"Mumbai, Karnataka",Returned
+17.02.2023,TC100160,Designer Watch,Fashion,"2,250",2,"Hyderabad, Rajasthan",Returned
+08.08.2023,TC100161,Handbag,Electronics,"5,275",2,"Indore, Maharashtra",Cancelled
+25.06.2023,TC100162,Designer Watch,Fashion,"Rs. 3,655",1,"Surat, Maharashtra",Delivered
+02.06.2023,TC100163,Formal Shoes,Home Appliances,"₹1,595.88",2,"Hyderabad, Gujarat",Cancelled
+26.03.2023,TC100164,Air Fryer,Electronics,"1,476",1,"Delhi, Uttar Pradesh",Returned
+12.04.2023,TC100165,Home Theatre System,Electronics,"Rs. 1,436",1,"Lucknow, Maharashtra",Shipped
+28.06.2023,TC100166,Air Fryer,Home Appliances,"Rs. 3,240",1,"Pune, Delhi",Delivered
+03.08.2023,TC100167,Home Theatre System,Electronics,"4,129",1,"Kolkata, Uttar Pradesh",Returned
+04.09.2023,TC100168,Designer Watch,Electronics,"₹2,898.60",1,"Indore, Uttar Pradesh",Returned
+01.09.2023,TC100169,Home Theatre System,Electronics,"2,389",1,"Delhi, Rajasthan",Returned
+02.10.2023,TC100170,Handbag,Home Appliances,"Rs. 1,667",2,"Ahmedabad, Karnataka",Cancelled
+19.12.2023,TC100171,Home Theatre System,Electronics,"₹2,595.25",1,"Chennai, Maharashtra",Returned
+24.03.2023,TC100172,Home Theatre System,Home Appliances,"1,216",1,"Delhi, Maharashtra",Cancelled
+23.12.2023,TC100173,Formal Shoes,Home Appliances,Rs. 299,2,"Ahmedabad, Rajasthan",Returned
+12.08.2023,TC100174,Handbag,Accessories,"4,164",1,"Hyderabad, Maharashtra",Delivered
+01.07.2023,TC100175,Home Theatre System,Home Appliances,₹993.02,2,"Kolkata, Gujarat",Shipped
+21.12.2023,TC100176,Home Theatre System,Fashion,"1,810",2,"Chennai, Telangana",Returned
+20.10.2023,TC100177,Designer Watch,Fashion,"2,988",2,"Mumbai, Maharashtra",Delivered
+19.07.2023,TC100178,Air Fryer,Accessories,"3,921",1,"Mumbai, Telangana",Returned
+06.01.2023,TC100179,Air Fryer,Electronics,"Rs. 2,509",1,"Jaipur, Uttar Pradesh",Shipped
+15.10.2023,TC100180,Designer Watch,Fashion,768,2,"Kolkata, Maharashtra",Delivered
+02.11.2023,TC100181,Home Theatre System,Home Appliances,"1,838",1,"Jaipur, Gujarat",Delivered
+12.04.2023,TC100182,Home Theatre System,Fashion,"Rs. 1,386",1,"Mumbai, West Bengal",Shipped
+09.02.2023,TC100183,Formal Shoes,Accessories,"Rs. 2,154",2,"Kolkata, Karnataka",Returned
+08.12.2023,TC100184,Air Fryer,Accessories,"3,678",2,"Kolkata, West Bengal",Returned
+24.10.2023,TC100185,Designer Watch,Electronics,Rs. 299,1,"Jaipur, Karnataka",Shipped
+12.11.2023,TC100186,Formal Shoes,Fashion,"1,706",2,"Delhi, Gujarat",Cancelled
+16.03.2023,TC100187,Home Theatre System,Accessories,"1,619",2,"Delhi, Uttar Pradesh",Delivered
+15.06.2023,TC100188,Formal Shoes,Accessories,692,2,"Pune, Maharashtra",Shipped
+07.12.2023,TC100189,Home Theatre System,Home Appliances,"₹2,902.59",1,"Hyderabad, Maharashtra",Cancelled
+12.06.2023,TC100190,Formal Shoes,Home Appliances,502,1,"Kolkata, Maharashtra",Delivered
+08.01.2023,TC100191,Home Theatre System,Accessories,640,1,"Hyderabad, Telangana",Delivered
+19.03.2023,TC100192,Formal Shoes,Fashion,"3,221",2,"Delhi, Uttar Pradesh",Shipped
+23.08.2023,TC100193,Home Theatre System,Electronics,"4,001",1,"Mumbai, Telangana",Cancelled
+17.03.2023,TC100194,Designer Watch,Home Appliances,"2,109",2,"Kolkata, Rajasthan",Delivered
+13.09.2023,TC100195,Formal Shoes,Home Appliances,739,1,"Lucknow, Maharashtra",Delivered
+12.06.2023,TC100196,Formal Shoes,Electronics,"1,353",1,"Mumbai, Telangana",Cancelled
+28.02.2023,TC100197,Air Fryer,Home Appliances,"3,410",2,"Mumbai, Delhi",Cancelled
+12.12.2023,TC100198,Formal Shoes,Fashion,"2,340",1,"Mumbai, Karnataka",Returned
+28.07.2023,TC100199,Designer Watch,Fashion,"₹2,078.75",2,"Ahmedabad, Karnataka",Returned
